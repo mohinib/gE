@@ -110,6 +110,7 @@ public class Individual<T, S> implements Comparable<Individual<T, S>>, Cloneable
 	 * The default value is false.
 	 */
 	private boolean valid;
+	private int numberOfBins;
 	
 	
 	/**
@@ -120,6 +121,7 @@ public class Individual<T, S> implements Comparable<Individual<T, S>>, Cloneable
 		this.phenotype = null;
 		this.rawFitnessValue = 0.0;
 		this.valid = false;
+		this.numberOfBins = 0;
 	}
 
 	/**
@@ -245,6 +247,30 @@ public class Individual<T, S> implements Comparable<Individual<T, S>>, Cloneable
 	}
 
 	/**
+	 * Sets the number of bins of the Individual.<br>
+	 * It must be always a non-negative number.<br>
+	 * Convention: lower number of bins means better Individual. 
+	 * 
+	 * @param numberOfBins The number of Bins value to set.
+	 */
+	public void setNumberBins(int numberBins) {
+		if (numberBins < 0) throw new RuntimeException("Negative value assigned in the Raw Fitness Value");
+		this.numberOfBins = numberBins;
+	}
+	
+	/**
+	 * Returns the number of Bins of the Individual.<br>
+	 * Use the method numBins() instead of this one for better performance.<br>
+	 * Number of bins is always a non-negative number<br>
+	 * Convention: Lower number of bins means better Individual. 
+	 * 
+	 * @return Returns the number of Bins.
+	 */
+	public int getNumberBins() {
+		return numBins();
+	}
+
+	/**
 	 * Sets the Raw Fitness value of the Individual.<br>
 	 * It must be always a non-negative number.<br>
 	 * Convention: Higher Raw Fitness means better Individual. 
@@ -299,6 +325,17 @@ public class Individual<T, S> implements Comparable<Individual<T, S>>, Cloneable
 	 */
 	public boolean isValid() {
 		return valid;
+	}
+	
+	/**
+	 * Returns number of bins of the individual. 
+	 * Any object which needs to know the number if bins in an individual
+	 * should use this method.
+	 * 
+	 * @return the number of bins of the phenotype of the individual.
+	 */
+	public int numBins(){
+		return numberOfBins;
 	}
 
 	/**

@@ -67,7 +67,7 @@ private List<Bin> target = new ArrayList<Bin>();
 private int min, max, binSize = 0;
 private double avg = 0;
 private List<Integer> bins = null;
-private List<Bin> targetBins = new ArrayList<Bin>();
+private List<Bin> targetBins = null;
 	
 	// Flag whether a solution has be found or not
 	private boolean solutionFound = false;
@@ -92,6 +92,14 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		this.binSize = size;
 	}
 	
+	public List<Bin> deepCopy(List<Bin> bins) {
+        ArrayList<Bin> copy = new ArrayList<Bin>();
+        for (int i = 0; i < bins.size(); i++) {
+            copy.add(bins.get(i).deepCopy());
+        }
+        return copy;
+    }
+	
 	/**
 	 * Evaluates the phenotype (which must be a fixed-length string)
 	 * of each individual of the population and assigns the Raw Fitness Value 
@@ -107,7 +115,7 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		
 		solutionFound = false;
 		int size = population.size();
-		int length = target.size();
+		//int length = target.size();
 		Individual<String, String> individual;
 		String current = null;
 		System.out.println(size);
@@ -115,7 +123,8 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		// Iterate the population
 		for (int i = 0; i < size; i++) {
 			System.out.println("i= " +i);
-			targetBins = target;
+			
+			//Collections.copy(targetBins, target);
 			individual = population.getIndividual(i);
 			current = individual.getPhenotype().value();
 			System.out.println(current);
@@ -124,34 +133,56 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 				System.out.println("false");
 			}
 			else {
+				/*List<Bin> objBin = new ArrayList<Bin>();
+				for(int k=0; k< 150; k++){
+					objBin.add(null);
+				}*/
+		//for(int a= 0 ; a<100; a++){
 			String[] currently = current.split("\\s");
 			int j=0;
-			List<Bin> objBin = new ArrayList<Bin>();
 			
+			//objBin = this.deepCopy(target);
 			//List<Bin> temp = new ArrayList<Bin>();
-			//for(int a= 0 ; a<100; a++){
+			
 				bins=new ArrayList<Integer>();
+				targetBins = new ArrayList<Bin>();
+				targetBins = this.deepCopy(target);
 			while(j < currently.length)
 			{
-				ExecPhenotype(currently[j++], targetBins, objBin);
+				if(targetBins.size() > 0){
+				ExecPhenotype(currently[j++]);
+				}
+				else{
+					ExecPhenotype(currently[currently.length - 1]);
+				}
 				
 			}
-			/*if(temp.size() < objBin.size()){
-				temp = objBin;
+			//temp = this.deepCopy(targetBins);
+			/*if(targetBins.size() < objBin.size()){
+				objBin = new ArrayList<Bin>();
+				objBin = this.deepCopy(targetBins);
 			}
 			}*/
 				
 			System.out.println();
 				// Assign Raw Fitness and set Individual as Valid
 			double fitness,sum = 0;
+			if(targetBins != null){
 			for(Bin bins: targetBins){
-				sum += (bins.currentSize/bins.maxSize);
+				sum += Math.pow((bins.currentSize/binSize), 2);
 			}
-			fitness = 1 - Math.pow((sum/length), 2);
-			System.out.println("Fitness = " +fitness);		
+			fitness = 1 - (sum/targetBins.size());
+			System.out.println("Fitness = " + 1/(1+fitness));		
 				individual.setRawFitnessValue(fitness);
 				individual.setValid(true);
-				
+				individual.setNumberBins(targetBins.size());
+				int numpieces = 0;
+				//remove after testing
+				/*for(Bin bins_obj : targetBins){
+					numpieces += bins_obj.numberOfItems();
+				}
+				System.out.println("num of pieces = " + numpieces + " bins = " + targetBins.size());	*/
+			}
 				// Check if a solution is found
 				
 			}
@@ -160,7 +191,7 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		
 	}
 	
-	private void ExecPhenotype(String Pheno, List<Bin> targetBins,List<Bin> objBins) {
+	private void ExecPhenotype(String Pheno) {
 		System.out.println("Pheno = " +Pheno);		
 		
 		List<Integer> temp = new ArrayList<Integer>();
@@ -230,10 +261,6 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 			else if(Pheno.contains("first")){
 				output = first_fit_decreasing(bins);
 			}
-			
-			if(output != null && output.size() < objBins.size()){
-				objBins = output;
-			}
 		}
 		
 	}
@@ -243,6 +270,7 @@ private List<Bin> targetBins = new ArrayList<Bin>();
         FirstFit ffd = new FirstFit(bins, binSize);
         List<Bin> obj = new ArrayList<Bin>();
         obj = ffd.getResult();
+        
         for(Bin binobj : obj){
         	targetBins.add(binobj);
         }
@@ -255,6 +283,7 @@ private List<Bin> targetBins = new ArrayList<Bin>();
         WorstFit wfd = new WorstFit(bins, binSize);
         List<Bin> obj = new ArrayList<Bin>();
         obj = wfd.getResult();
+        
         for(Bin binobj : obj){
         	targetBins.add(binobj);
         }
@@ -280,35 +309,47 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		int i=0;
 		int sizee=0;
 		while(i<num){
-			if(targetBins.size() >= num){	
+			if(targetBins.size() >= num && targetBins.size() > 0){	
 			int k = randomizer.nextInt(targetBins.size());
-			sizee= targetBins.get(k).items.size();
-			if(ignore != 1.1){
+			if(targetBins.get(k).numberOfItems() >0){
+			sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());}
+			if(ignore != 1.1 && sizee >= 0){
 			if((targetBins.get(k).maxSize - targetBins.get(k).currentSize) < threshold && targetBins.get(k).currentSize < ignore*targetBins.get(k).maxSize){
 				if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(k).items.get(randomizer.nextInt(sizee)));
+					returnBins.add(targetBins.get(k).items.get(sizee));
+					targetBins.get(k).items.remove(sizee);
+					if(targetBins.get(k).numberOfItems() == 0){
+						targetBins.remove(k);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
 						returnBins.add(targetBins.get(k).items.get(j));
 					}
+					targetBins.remove(k);
 				}
-				targetBins.remove(k);
+				
 			}
 			}
-			else if(ignore == 1.1){
+			else if(ignore == 1.1 && sizee >= 0){
 				if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(k).items.get(randomizer.nextInt(sizee)));
+					returnBins.add(targetBins.get(k).items.get(sizee));
+					targetBins.get(k).items.remove(sizee);
+					if(targetBins.get(k).numberOfItems() == 0){
+						targetBins.remove(k);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
 						returnBins.add(targetBins.get(k).items.get(j));
 					}
+					targetBins.remove(k);
 				}
-				targetBins.remove(k);
+				
 			}
-			i++;
+			
 		}
+			i++;
 			}
 		return returnBins;
 		//System.out.println("I am gap_less_than(" +num +"," +threshold +"," +ignore +"," +remove +")");
@@ -321,36 +362,49 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		int counter= 0;
 		Random randomizer = new Random();
 		for(Bin bins: targetBins){
-			if(targetBins.size() >= num){
-			if(ignore != 1.1){
+			if(targetBins.size() >= num && targetBins.size() > 0){
+				int sizee=0;
+				if(bins.numberOfItems() >0){
+				sizee= randomizer.nextInt(bins.numberOfItems());}
+			if(ignore != 1.1 && sizee >= 0){
 			if(counter < num && bins.numberOfItems() == numpieces && bins.currentSize < ignore*bins.maxSize){
 				if(remove.equals("ONE")){
-					int sizee= bins.items.size();
-					returnBins.add(bins.items.get(randomizer.nextInt(sizee)));
+					
+					returnBins.add(bins.items.get(sizee));
+					bins.items.remove(sizee);
+					if(bins.numberOfItems() == 0){
+						toRemoveBins.add(bins);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int i = 0; i < bins.numberOfItems(); i++){
 						returnBins.add(bins.items.get(i));
 					}
+					toRemoveBins.add(bins);
 				}
 				counter++;
-				toRemoveBins.add(bins);
+				
 				//targetBins.remove(bins);
 			}			
 			}
-			else if(ignore == 1.1){ 
+			else if(ignore == 1.1 && sizee >= 0){ 
 				if(counter < num && bins.numberOfItems() == numpieces){
 					if(remove.equals("ONE")){
-						int sizee=bins.items.size();
-						returnBins.add(bins.items.get(randomizer.nextInt(sizee)));
+						
+						returnBins.add(bins.items.get(sizee));
+						bins.items.remove(sizee);
+						if(bins.numberOfItems() == 0){
+							toRemoveBins.add(bins);
+						}
 					}
 					else if(remove.equals("ALL")){
 						for(int i = 0; i < bins.numberOfItems(); i++){
 							returnBins.add(bins.items.get(i));
 						}
+						toRemoveBins.add(bins);
 					}
 					counter++;
-					toRemoveBins.add(bins);
+					
 				}
 			}
 			}
@@ -379,32 +433,44 @@ private List<Bin> targetBins = new ArrayList<Bin>();
 		Random randomizer = new Random();
 		
     	for(int i=0; i < num; i++){
-    		if(targetBins.size() >= num){
-    		//int size= targetBins.get(i).items.size();
-    		if(ignore != 1.1){
+    		if(targetBins.size() >= num && targetBins.size() > 0){
+        		int sizee=0;
+    			if(targetBins.get(i).numberOfItems() > 0){
+    		sizee= randomizer.nextInt(targetBins.get(i).numberOfItems());}
+    		if(ignore != 1.1 && sizee>= 0){
     			if(targetBins.get(i).currentSize < ignore*targetBins.get(i).maxSize){
     				if(remove.equals("ONE")){
     					
-    					returnBins.add(targetBins.get(i).items.get(randomizer.nextInt(targetBins.get(i).items.size())));
+    					returnBins.add(targetBins.get(i).items.get(sizee));
+    					targetBins.get(i).items.remove(sizee);
+    					if(targetBins.get(i).numberOfItems() == 0){
+    						targetBins.remove(i);
+    					}
     				}
     				else if(remove.equals("ALL")){
     					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
     						returnBins.add(targetBins.get(i).items.get(j));
     					}
+    					targetBins.remove(i);
     				}
-    				targetBins.remove(i);
+    				
     			}    		
     		}
-    		else if(ignore == 1.1){    			
+    		else if(ignore == 1.1 && sizee >= 0){    			
     			if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(i).items.get(randomizer.nextInt(targetBins.get(i).items.size())));
+					returnBins.add(targetBins.get(i).items.get(sizee));
+					targetBins.get(i).items.remove(sizee);
+					if(targetBins.get(i).numberOfItems() == 0){
+						targetBins.remove(i);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
 						returnBins.add(targetBins.get(i).items.get(j));
 					}
+					targetBins.remove(i);
 				}
-    			targetBins.remove(i);
+    			
     		}
     	}
 		}
@@ -424,45 +490,46 @@ private List<Bin> targetBins = new ArrayList<Bin>();
     	Random randomizer = new Random();
     	
     	for(int i=0; i < num; i++){
-    		if(targetBins.size() >= num){
-    		
-    		if(ignore != 1.1){
+    		if(targetBins.size() >= num && targetBins.size() > 0){
+    			int sizee =0;
+    			if(targetBins.get(i).numberOfItems() >0 ){
+    		sizee = randomizer.nextInt(targetBins.get(i).numberOfItems());}
+    		if(ignore != 1.1 && sizee >= 0){
     			if(targetBins.get(i).currentSize < ignore*targetBins.get(i).maxSize){
     				if(remove.equals("ONE")){
-    					System.out.println("targetBins.get(i).numberOfItems() = " +targetBins.get(i).numberOfItems());
-    					returnBins.add(targetBins.get(i).items.get(randomizer.nextInt(targetBins.get(i).numberOfItems())));
-    						
+    					if(targetBins.get(i).numberOfItems()>0){
+    					returnBins.add(targetBins.get(i).items.get(sizee));
+    					targetBins.get(i).items.remove(sizee);
+    					if(targetBins.get(i).numberOfItems() == 0){
+    						targetBins.remove(i);
+    					}
+    					}
     				}
     				else if(remove.equals("ALL")){
     					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
     						returnBins.add(targetBins.get(i).items.get(j));
     					}
+    					targetBins.remove(i);
     				}
     			}  
-    			targetBins.remove(i);
+    			
     		}
-    		else if(ignore == 1.1){    			
-    			/*if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(i).items.get(randomizer.nextInt(targetBins.get(i).numberOfItems())));
+    		else if(ignore == 1.1 && sizee >= 0){    			
+    			if(remove.equals("ONE")){
+					returnBins.add(targetBins.get(i).items.get(sizee));
+					targetBins.get(i).items.remove(sizee);
+					if(targetBins.get(i).numberOfItems() == 0){
+						targetBins.remove(i);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
 						returnBins.add(targetBins.get(i).items.get(j));
 					}
+					targetBins.remove(i);
 				}
-    			targetBins.remove(i);*/
-    			if(targetBins.get(i).currentSize < ignore*targetBins.get(i).maxSize){
-    				if(remove.equals("ONE")){
-    					
-    					returnBins.add(targetBins.get(i).items.get(randomizer.nextInt(targetBins.get(i).numberOfItems())));
-    				}
-    				else if(remove.equals("ALL")){
-    					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
-    						returnBins.add(targetBins.get(i).items.get(j));
-    					}
-    				}
-    			}  
-    			targetBins.remove(i);
+    			
+    			
     		}
     		}
     	}
@@ -476,32 +543,47 @@ private List<Bin> targetBins = new ArrayList<Bin>();
     	Random randomizer = new Random();
     	
     	for(int i=0; i < num; i++){
-    		if(targetBins.size() > num){
-    		//int size= targetBins.get(i).items.size();
-    		int k = randomizer.nextInt(targetBins.size());
-    		if(ignore != 1.1){    			
-    			if(targetBins.get(k).currentSize < ignore*targetBins.get(k).maxSize){
+    		if(targetBins.size() > num && targetBins.size() > 0){
+    			int k = randomizer.nextInt(targetBins.size());
+    		
+    		
+    		if(ignore != 1.1 && k >= 0 ){   
+    			int sizee=0;
+    			if(targetBins.get(k).numberOfItems() > 0){
+    			sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());}
+    			if(targetBins.get(k).currentSize < ignore*targetBins.get(k).maxSize && sizee >= 0){
     				if(remove.equals("ONE")){
-    					returnBins.add(targetBins.get(k).items.get(randomizer.nextInt(targetBins.get(k).items.size())));
+    					returnBins.add(targetBins.get(k).items.get(sizee));
+    					targetBins.get(k).items.remove(sizee);
+    					if(targetBins.get(k).numberOfItems() == 0){
+    						targetBins.remove(k);
+    					}
     				}
     				else if(remove.equals("ALL")){
     					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
     						returnBins.add(targetBins.get(k).items.get(j));
     					}
+    					targetBins.remove(k);
     				}
-    				targetBins.remove(k);
+    				
     			}    		
     		}
-    		else if(ignore == 1.1){    			
-    			if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(k).items.get(randomizer.nextInt(targetBins.get(k).items.size())));
+    		else if(ignore == 1.1&& k >= 0 ){    	
+    			int sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());
+    			if(remove.equals("ONE") && sizee >= 0){
+					returnBins.add(targetBins.get(k).items.get(sizee));
+					targetBins.get(k).items.remove(sizee);
+					if(targetBins.get(k).numberOfItems() == 0){
+						targetBins.remove(k);
+					}
 				}
 				else if(remove.equals("ALL")){
 					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
 						returnBins.add(targetBins.get(k).items.get(j));
 					}
+					targetBins.remove(k);
 				}
-    			targetBins.remove(k);
+    			
     		}
     	}
     	}

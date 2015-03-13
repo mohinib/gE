@@ -104,7 +104,8 @@ public class SteadyStateGA extends EvolutionaryAlgorithm<String, String> {
 		this();
 		setPopulation(population);
 		setEvaluator(evaluator);
-		setGenerationGap( 2.0 / (double)population.size());
+		//setGenerationGap( 2.0 / (double)population.size());
+		setGenerationGap( 0.9 * population.size());
 	}
 	
 	/**

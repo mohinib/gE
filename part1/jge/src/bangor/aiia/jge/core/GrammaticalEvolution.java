@@ -234,6 +234,7 @@ public class GrammaticalEvolution {
 				
 		// Execute the Evolutionary Algorithm		
 		solution = ea.run();
+		System.out.println("I am solution: " +solution);
 		generationsCreated = ea.lastRunGenerations();
 		population = ea.getPopulation();
 		
