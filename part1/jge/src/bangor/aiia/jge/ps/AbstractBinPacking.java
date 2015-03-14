@@ -14,9 +14,9 @@ public abstract class AbstractBinPacking {
     }
 
     /**
-     * runs algorithm and returns minimum number of needed bins.
+     * runs algorithm and returns needed bins.
      *
-     * @return minimum number of needed bins
+     * @return needed bins
      */
     public abstract List<Bin> getResult();
 
@@ -25,6 +25,12 @@ public abstract class AbstractBinPacking {
      */
     public abstract void printBestBins();
     
+    /**
+     * runs algorithm and returns needed bins after repacking.
+     *
+     * @return needed bins after repacking.
+     */
+    public abstract List<Bin> addBin(List<Bin> bin);
     
     public List<Bin> deepCopy(List<Bin> bins) {
         ArrayList<Bin> copy = new ArrayList<Bin>();

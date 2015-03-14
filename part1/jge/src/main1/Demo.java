@@ -19,6 +19,7 @@ import bangor.aiia.jge.bnf.BNFParser;
 import bangor.aiia.jge.bnf.InvalidBNFException;
 import bangor.aiia.jge.core.GrammaticalEvolution;
 import bangor.aiia.jge.population.Individual;
+import bangor.aiia.jge.ps.Bin;
 import bangor.aiia.jge.ps.DemoD;
 import bangor.aiia.jge.ps.FirstFit;
 import bangor.aiia.jge.util.ConfigurationSettings;
@@ -29,13 +30,13 @@ public class Demo {
 	 static String bnf1=null;
 	 static String rootPath = ConfigurationSettings.getInstance().getRootPath();
 
-	public static Individual<String, String> hdExperiment(FirstFit ff, int min_elem, int max_elem, double average_elem, int size) throws InvalidBNFException, IOException { 
+	public static Individual<String, String> hdExperiment(List<Bin> newobj, int min_elem, int max_elem, double average_elem, int size) throws InvalidBNFException, IOException { 
 	bnf1 = BNFParser.loadBNFGrammar(rootPath + "/bnf/HDGrammar11.bnf");
 	Individual<String, String> solution = null;
 	//String target = "111000111000101010101010101010"; 
 	
 	LogFile log = null;
-	DemoD hd = new DemoD(ff.getResult(), min_elem, max_elem, average_elem, size);
+	DemoD hd = new DemoD(newobj, min_elem, max_elem, average_elem, size);
 	BNFGrammar bnf = new BNFGrammar(bnf1); 
 	System.out.println(bnf);
 	GrammaticalEvolution ea = new GrammaticalEvolution(bnf, hd, 50, 8, 10, 50);
@@ -107,20 +108,37 @@ public class Demo {
 	    	}
 	    }
 	    reader.close();
+	    /* file file 1 is for testing purpose only. It is recommended to clean all the code associated with it for the final submission.*/
+	    File file1 = new File("filenameN.txt");
+		 
+		// if file doesnt exists, then create it
+		if (!file1.exists()) {
+			file1.createNewFile();
+		}
+
+		FileWriter fw1 = new FileWriter(file1.getAbsoluteFile());
+		BufferedWriter bw1 = new BufferedWriter(fw1);
+		
 	    int best_sol = Integer.MAX_VALUE;
 	    int min_elem = Collections.min(in);
 	    int max_elem = Collections.max(in);
 	    double average_elem = calculateAverage(in);
-	 for(int a=0; a< 50; a++){
-	    Collections.sort(in, Collections.reverseOrder()); 
+	 for(int a=0; a< 100; a++){
+	   //Collections.sort(in, Collections.reverseOrder()); 
+		Collections.shuffle(in); 
 	    FirstFit ff = new FirstFit(in, size);
-	    System.out.println(" a = " + a);
-		obj = hdExperiment(ff, min_elem, max_elem, average_elem, size);
+	    List<Bin> newobj= new ArrayList<Bin>();
+	    newobj=ff.getResult();
+	    //System.out.println(" a = " + a);
+	    bw1.write("\n First Fit " + ":" + newobj.size());
+		obj = hdExperiment(newobj, min_elem, max_elem, average_elem, size);
 		int temp=obj.numBins();
 		if(temp<best_sol){
 			best_sol=temp;
+			bw1.write("\n Best solution " + content +  ":" + best_sol);
 		}
 	 }
+	 bw1.close();
 	 File file = new File("filename.txt");
 	 
 		// if file doesnt exists, then create it

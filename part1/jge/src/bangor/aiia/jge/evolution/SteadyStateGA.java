@@ -104,8 +104,8 @@ public class SteadyStateGA extends EvolutionaryAlgorithm<String, String> {
 		this();
 		setPopulation(population);
 		setEvaluator(evaluator);
-		//setGenerationGap( 2.0 / (double)population.size());
-		setGenerationGap( 0.9 * population.size());
+		//setGenerationGap( 0.9 / (double)population.size());
+		setGenerationGap( 0.9);
 	}
 	
 	/**
@@ -145,13 +145,14 @@ public class SteadyStateGA extends EvolutionaryAlgorithm<String, String> {
 		int currentGeneration = 0;						// The current generation's number
 		int replacements = 0;							// The individuals to be replaced in every generation
 		generationsCreated = 0;							// Initialise the created so far generations of this run
-		terminate = false;										// Initialise the termination condition
+		terminate = false;								// Initialise the termination condition
 		//int terminate=0;
 		// Calculate and Normalise the replacements
 		replacements = (int) (generationGap * size);
 		if (replacements % 2 != 0) {
 			replacements--;
 		}
+		System.out.println("Generation Gap =" +generationGap +"Replacements =" +replacements);
 		if (replacements <= 0)
 			throw new RuntimeException("SSGA Run: No replacment will occur in the population");
 		
@@ -180,7 +181,7 @@ public class SteadyStateGA extends EvolutionaryAlgorithm<String, String> {
 			offspring = new Population<String, String>(size);
 			newborns = 0;
 			currentGeneration++;
-			
+			System.out.println("Generation Gap =" +generationGap +"Replacements =" +replacements);
 			//System.out.print(" " + currentGeneration + " ");
 					
 			// Create the new population

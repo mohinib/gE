@@ -34,13 +34,49 @@ public class WorstFit extends AbstractBinPacking {
                 bins.add(newBin);
             }
             else{
-            	bins.get(worstBin).put(currentItem);
+            	if(!bins.get(worstBin).put(currentItem))
+             	{
+             		//to change : log exception
+             		System.out.println("something went wrong : bin not added");
+             	}
             }
            
         }
+        System.out.println("WF Bin Size: " +bins.size());
         return bins;
     }
     
+    public List<Bin> addBin(List<Bin> targetBin) {      
+        // bins.add(new Bin(binSize)); // add first bin
+         for (Integer currentItem : in) {
+             // iterate over bins and try to put the item into the best one it fits into 
+         	//least space available in the bin
+            int BinNumber = targetBin.size();
+             int worstBin = -1;
+             int worstBinAmount = binSize;
+             for (int i = 0; i < BinNumber; i++){
+             		if(worstBinAmount > targetBin.get(i).currentSize && (targetBin.get(i).currentSize + currentItem) <= binSize){
+             			worstBinAmount = targetBin.get(i).currentSize;
+             			worstBin = i;
+             		}
+             }
+             if(worstBin == -1){
+             	Bin newBin = new Bin(binSize);
+                 newBin.put(currentItem);
+                 targetBin.add(newBin);
+             }
+             else{
+            	 if(!targetBin.get(worstBin).put(currentItem))
+             	{
+             		//to change : log exception
+             		System.out.println("something went wrong : bin not added");
+             	}
+             }
+            
+         }
+         System.out.println("WF TargetBin Size: " +targetBin.size());
+         return targetBin;
+     }
     @Override
     public void printBestBins() {
     	System.out.println("Bins:");

@@ -171,7 +171,8 @@ public class GrammaticalEvolution {
 		this.evaluator = evaluator;
 		this.population = population;
 		this.codonSize = codonSize;
-		generationGap = 2.0 / (double) population.size();				
+		//generationGap = 2.0 / (double) population.size();
+		generationGap = 0.9;
 	}
 	
 	/**

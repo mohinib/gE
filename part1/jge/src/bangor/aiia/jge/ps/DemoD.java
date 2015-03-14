@@ -18,7 +18,7 @@
 
  * You should have received a copy of the GNU General Public License
  * along with jGE Library.  If not, see <http://www.gnu.org/licenses/>.
- */ 
+ */
 
 package bangor.aiia.jge.ps;
 
@@ -38,564 +38,570 @@ import bangor.aiia.jge.ps.Bin;
 import bangor.aiia.jge.ps.FirstFit;
 import bangor.aiia.jge.ps.WorstFit;
 
-
-
 /**
- * The class <code>HammnigDistance</code> implements a problem specification
- * of finding a target string. Namely, it compares the Hamming Distance
- * between the phenotypes of the individuals of the population and the target string.<br>
- * The phenotypes must be fixed-length strings.
- * <br><br>
- * In information theory, the Hamming distance between two strings 
- * of equal length is the number of positions for which 
- * the corresponding symbols are different.<br>
- * Put another way, it measures the number of substitutions required 
- * to change one into the other, or the number of errors that 
- * transformed one string into the other.
+ * The class <code>HammnigDistance</code> implements a problem specification of
+ * finding a target string. Namely, it compares the Hamming Distance between the
+ * phenotypes of the individuals of the population and the target string.<br>
+ * The phenotypes must be fixed-length strings. <br>
+ * <br>
+ * In information theory, the Hamming distance between two strings of equal
+ * length is the number of positions for which the corresponding symbols are
+ * different.<br>
+ * Put another way, it measures the number of substitutions required to change
+ * one into the other, or the number of errors that transformed one string into
+ * the other.
  * 
- * @author 	Loukas Georgiou
+ * @author Loukas Georgiou
  * @version 1.0, 15/04/06
- * @see 	Evaluator
- * @see 	Population
- * @see 	Individual
- * @see 	Core
- * @since 	JavaGE 0.1
+ * @see Evaluator
+ * @see Population
+ * @see Individual
+ * @see Core
+ * @since JavaGE 0.1
  */
-public class DemoD implements Evaluator <String, String> {
+public class DemoD implements Evaluator<String, String> {
 
-private List<Bin> target = new ArrayList<Bin>();
-private int min, max, binSize = 0;
-private double avg = 0;
-private List<Integer> bins = null;
-private List<Bin> targetBins = null;
-	
+	private List<Bin> target = new ArrayList<Bin>();
+	private int min, max, binSize = 0;
+	private double avg = 0;
+	private List<Integer> bins = null;
+	private List<Bin> targetBins = null;
+
 	// Flag whether a solution has be found or not
 	private boolean solutionFound = false;
-	
+
 	/**
 	 * Default Constructor. Should not be used.
 	 */
 	private DemoD() {
 		super();
 	}
-	
+
 	/**
 	 * Constructor.
-	 * @param target The target string that must be found.
+	 * 
+	 * @param target
+	 *            The target string that must be found.
 	 */
 	public DemoD(List<Bin> target, int min, int max, double avg, int size) {
 		this();
-		this.target = target;	
+		this.target = target;
 		this.min = min;
 		this.max = max;
 		this.avg = avg;
 		this.binSize = size;
 	}
-	
+
 	public List<Bin> deepCopy(List<Bin> bins) {
-        ArrayList<Bin> copy = new ArrayList<Bin>();
-        for (int i = 0; i < bins.size(); i++) {
-            copy.add(bins.get(i).deepCopy());
-        }
-        return copy;
-    }
-	
+		ArrayList<Bin> copy = new ArrayList<Bin>();
+		for (int i = 0; i < bins.size(); i++) {
+			copy.add(bins.get(i).deepCopy());
+		}
+		return copy;
+	}
+
 	/**
-	 * Evaluates the phenotype (which must be a fixed-length string)
-	 * of each individual of the population and assigns the Raw Fitness Value 
-	 * according to the Hamming Distance between the phenotype and the target string.<br>
-	 * If an individual's phenotype has not the same length with the target string
-	 * then the individual is invalid (sets valid to false).<br><br> 
+	 * Evaluates the phenotype (which must be a fixed-length string) of each
+	 * individual of the population and assigns the Raw Fitness Value according
+	 * to the Hamming Distance between the phenotype and the target string.<br>
+	 * If an individual's phenotype has not the same length with the target
+	 * string then the individual is invalid (sets valid to false).<br>
+	 * <br>
 	 * The Raw Fitness is calculated with the following formula:<br>
 	 * <code>Raw Fitness = Phenotype Length - Hamming Distance.</code>
-	 *  
-	 * @param population The population to be evaluated.
+	 * 
+	 * @param population
+	 *            The population to be evaluated.
 	 */
 	public void evaluate(Population<String, String> population) {
-		
+
 		solutionFound = false;
 		int size = population.size();
-		//int length = target.size();
+		// int length = target.size();
 		Individual<String, String> individual;
 		String current = null;
 		System.out.println(size);
-	
+
 		// Iterate the population
 		for (int i = 0; i < size; i++) {
-			System.out.println("i= " +i);
-			
-			//Collections.copy(targetBins, target);
+			System.out.println("i= " + i);
+
+			// Collections.copy(targetBins, target);
 			individual = population.getIndividual(i);
 			current = individual.getPhenotype().value();
 			System.out.println(current);
-			if(current.contains("<")){
+			if (current.contains("<")) {
 				individual.setValid(false);
 				System.out.println("false");
-			}
-			else {
-				/*List<Bin> objBin = new ArrayList<Bin>();
-				for(int k=0; k< 150; k++){
-					objBin.add(null);
-				}*/
-		//for(int a= 0 ; a<100; a++){
-			String[] currently = current.split("\\s");
-			int j=0;
-			
-			//objBin = this.deepCopy(target);
-			//List<Bin> temp = new ArrayList<Bin>();
-			
-				bins=new ArrayList<Integer>();
+			} else {
+				
+				 List<Bin> objBin = new ArrayList<Bin>(); 
+				 /* for(int k=0; k< 150;
+				 * k++){ objBin.add(null); }
+				 */
+				// for(int a= 0 ; a<100; a++){
+				String[] currently = current.split("\\s");
+				int j = 0;
+
+				// objBin = this.deepCopy(target);
+				// List<Bin> temp = new ArrayList<Bin>();
+
+				bins = new ArrayList<Integer>();
 				targetBins = new ArrayList<Bin>();
 				targetBins = this.deepCopy(target);
-			while(j < currently.length)
-			{
-				if(targetBins.size() > 0){
-				ExecPhenotype(currently[j++]);
+				while (j < currently.length) {
+					if (targetBins.size() > 0) {
+						objBin=ExecPhenotype(currently[j++]);
+					} else {
+						objBin=ExecPhenotype(currently[currently.length - 1]);
+					}
+
 				}
-				else{
-					ExecPhenotype(currently[currently.length - 1]);
-				}
-				
-			}
-			//temp = this.deepCopy(targetBins);
-			/*if(targetBins.size() < objBin.size()){
-				objBin = new ArrayList<Bin>();
-				objBin = this.deepCopy(targetBins);
-			}
-			}*/
-				
-			System.out.println();
+				// temp = this.deepCopy(targetBins);
+				/*
+				 * if(targetBins.size() < objBin.size()){ objBin = new
+				 * ArrayList<Bin>(); objBin = this.deepCopy(targetBins); } }
+				 */
+
+				System.out.println();
 				// Assign Raw Fitness and set Individual as Valid
-			double fitness,sum = 0;
-			if(targetBins != null){
-			for(Bin bins: targetBins){
-				sum += Math.pow((bins.currentSize/binSize), 2);
-			}
-			fitness = 1 - (sum/targetBins.size());
-			System.out.println("Fitness = " + 1/(1+fitness));		
-				individual.setRawFitnessValue(fitness);
-				individual.setValid(true);
-				individual.setNumberBins(targetBins.size());
-				int numpieces = 0;
-				//remove after testing
-				/*for(Bin bins_obj : targetBins){
-					numpieces += bins_obj.numberOfItems();
+				double fitness, sum = 0;
+				if (objBin != null) {
+					for (Bin bins : objBin) {
+						sum += Math.pow((bins.currentSize / binSize), 2);
+					}
+					fitness = 1 - (sum / objBin.size());
+					System.out.println("Fitness = " + 1 / (1 + fitness));
+					individual.setRawFitnessValue(fitness);
+					individual.setValid(true);
+					individual.setNumberBins(objBin.size());
+					//int numpieces = 0;
+					// remove after testing
+					/*
+					 * for(Bin bins_obj : targetBins){ numpieces +=
+					 * bins_obj.numberOfItems(); }
+					 * System.out.println("num of pieces = " + numpieces +
+					 * " bins = " + targetBins.size());
+					 */
 				}
-				System.out.println("num of pieces = " + numpieces + " bins = " + targetBins.size());	*/
-			}
 				// Check if a solution is found
-				
+
 			}
-			
+
 		}
-		
+
 	}
-	
-	private void ExecPhenotype(String Pheno) {
-		System.out.println("Pheno = " +Pheno);		
-		
+
+	private List<Bin> ExecPhenotype(String Pheno) {
+		System.out.println("Pheno = " + Pheno);
+
 		List<Integer> temp = new ArrayList<Integer>();
 		List<Bin> output = new ArrayList<Bin>();
-		if(Pheno.contains("=")){
-		String[] vals = Pheno.split("=");
-		String[] values=vals[1].split(",");
-		int number=0;
-		String removeVal = "";
-		if(Pheno.contains("filled")||Pheno.contains("random")){
-			number=Integer.parseInt(values[0]);
-			double ignoreVal=Double.parseDouble(values[1]);
-			removeVal=values[2];
-			if(Pheno.contains("highest")){
-				temp = highest_filled(number, ignoreVal, removeVal);
+		if (Pheno.contains("=")) {
+			String[] vals = Pheno.split("=");
+			String[] values = vals[1].split(",");
+			int number = 0;
+			String removeVal = "";
+			if (Pheno.contains("filled") || Pheno.contains("random")) {
+				number = Integer.parseInt(values[0]);
+				double ignoreVal = Double.parseDouble(values[1]);
+				removeVal = values[2];
+				if (Pheno.contains("highest")) {
+					temp = highest_filled(number, ignoreVal, removeVal);
+				} else if (Pheno.contains("lowest")) {
+					temp = lowest_filled(number, ignoreVal, removeVal);
+				} else {
+					temp = random_bin(number, ignoreVal, removeVal);
+				}
+			} else if (Pheno.contains("gap")) {
+				number = Integer.parseInt(values[0]);
+				String threshold = values[1];
+				double ignoreVal = Double.parseDouble(values[2]);
+				removeVal = values[3];
+				double thres = 0;
+				switch (threshold) {
+				case "average": {
+					thres = avg;
+					break;
+				}
+				case "maximum": {
+					thres = max;
+					break;
+				}
+				case "minimum": {
+					thres = min;
+					break;
+				}
+				default: {
+					break;
+				}
+				}
+				temp = gap_less_than(number, thres, ignoreVal, removeVal);
+			} else if (Pheno.contains("num_of_pieces")) {
+				number = Integer.parseInt(values[0]);
+				int numpieces = Integer.parseInt(values[1]);
+				double ignoreVal = Double.parseDouble(values[2]);
+				removeVal = values[3];
+				temp = num_of_pieces(number, numpieces, ignoreVal, removeVal);
 			}
-			else if(Pheno.contains("lowest")){
-				temp = lowest_filled(number, ignoreVal, removeVal);
+			for (Integer el : temp) {
+				bins.add(el);
 			}
-			else{
-				temp = random_bin(number, ignoreVal, removeVal);
-			}
-		}
-		else if(Pheno.contains("gap")){
-			number=Integer.parseInt(values[0]);
-			String threshold=values[1];			
-			double ignoreVal=Double.parseDouble(values[2]);
-			removeVal=values[3];
-			double thres = 0;
-			switch(threshold){
-			case "average": {
-				thres = avg;
-				break;
-			}
-			case "maximum":{
-				thres = max;
-				break;
-			}
-			case "minimum":{
-				thres = min;
-				break;
-			}
-			default:{
-				break;
-			}
-			}
-			temp = gap_less_than(number, thres, ignoreVal, removeVal);
-		}
-		else if(Pheno.contains("num_of_pieces")){
-			number=Integer.parseInt(values[0]);
-			int numpieces=Integer.parseInt(values[1]);
-			double ignoreVal=Double.parseDouble(values[2]);
-			removeVal=values[3];
-			temp = num_of_pieces(number, numpieces, ignoreVal, removeVal);
-		}
-	for(Integer el : temp){
-		bins.add(el);
-	}
-		}
-		else{
-			if(Pheno.contains("best")){
+		} else {
+			if (Pheno.contains("best")) {
 				output = best_fit_decreasing(bins);
-			}
-			else if(Pheno.contains("worst")){
+			} else if (Pheno.contains("worst")) {
 				output = worst_fit_decreasing(bins);
-			}
-			else if(Pheno.contains("first")){
+			} else if (Pheno.contains("first")) {
 				output = first_fit_decreasing(bins);
 			}
 		}
-		
+		return output;
 	}
 
-	private List<Bin> first_fit_decreasing(List<Integer> bins) {	
+	private List<Bin> first_fit_decreasing(List<Integer> bins) {
 		Collections.sort(bins, Collections.reverseOrder()); // sort
-        FirstFit ffd = new FirstFit(bins, binSize);
-        List<Bin> obj = new ArrayList<Bin>();
-        obj = ffd.getResult();
-        
-        for(Bin binobj : obj){
-        	targetBins.add(binobj);
-        }
-        return targetBins;
-        //ffd.printBestBins();
+		FirstFit ffd = new FirstFit(bins, binSize);
+		List<Bin> obj = new ArrayList<Bin>();
+		obj = ffd.addBin(targetBins);
+
+		/*for (Bin binobj : obj) {
+			targetBins.add(binobj);
+		}*/
+		return obj;
+		// ffd.printBestBins();
 	}
 
 	private List<Bin> worst_fit_decreasing(List<Integer> bins) {
 		Collections.sort(bins, Collections.reverseOrder()); // sort
-        WorstFit wfd = new WorstFit(bins, binSize);
-        List<Bin> obj = new ArrayList<Bin>();
-        obj = wfd.getResult();
-        
-        for(Bin binobj : obj){
-        	targetBins.add(binobj);
-        }
-        //wfd.printBestBins();
-        return targetBins;
+		WorstFit wfd = new WorstFit(bins, binSize);
+		List<Bin> obj = new ArrayList<Bin>();
+		obj = wfd.addBin(targetBins);
+
+		/*for (Bin binobj : obj) {
+			targetBins.add(binobj);
+		}*/
+		// wfd.printBestBins();
+		return obj;
 	}
 
 	private List<Bin> best_fit_decreasing(List<Integer> bins) {
 		Collections.sort(bins, Collections.reverseOrder()); // sort
-        BestFit bfd = new BestFit(bins, binSize);
-        List<Bin> obj = new ArrayList<Bin>();
-        obj = bfd.getResult();
-        for(Bin binobj : obj){
-        	targetBins.add(binobj);
-        }
-        return targetBins;
-        // bfd.printBestBins();
+		BestFit bfd = new BestFit(bins, binSize);
+		List<Bin> obj = new ArrayList<Bin>();
+		obj = bfd.addBin(targetBins);
+		/*for (Bin binobj : obj) {
+			targetBins.add(binobj);
+		}*/
+		return obj;
+		// bfd.printBestBins();
 	}
 
-	private List<Integer> gap_less_than(int num, double threshold, double ignore,String remove) {
+	private List<Integer> gap_less_than(int num, double threshold,
+			double ignore, String remove) {
 		List<Integer> returnBins = new ArrayList<Integer>();
 		Random randomizer = new Random();
-		int i=0;
-		int sizee=0;
-		while(i<num){
-			if(targetBins.size() >= num && targetBins.size() > 0){	
-			int k = randomizer.nextInt(targetBins.size());
-			if(targetBins.get(k).numberOfItems() >0){
-			sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());}
-			if(ignore != 1.1 && sizee >= 0){
-			if((targetBins.get(k).maxSize - targetBins.get(k).currentSize) < threshold && targetBins.get(k).currentSize < ignore*targetBins.get(k).maxSize){
-				if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(k).items.get(sizee));
-					targetBins.get(k).items.remove(sizee);
-					if(targetBins.get(k).numberOfItems() == 0){
+		int i = 0;
+		int sizee = 0;
+		while (i < num) {
+			if (targetBins.size() >= num && targetBins.size() > 0) {
+				int k = randomizer.nextInt(targetBins.size());
+				if (targetBins.get(k).numberOfItems() > 0) {
+					sizee = randomizer.nextInt(targetBins.get(k)
+							.numberOfItems());
+				}
+				if (ignore != 1.1 && sizee >= 0) {
+					if ((targetBins.get(k).maxSize - targetBins.get(k).currentSize) < threshold
+							&& targetBins.get(k).currentSize < ignore
+									* targetBins.get(k).maxSize) {
+						if (remove.equals("ONE")) {
+							returnBins.add(targetBins.get(k).items.get(sizee));
+							targetBins.get(k).items.remove(sizee);
+							if (targetBins.get(k).numberOfItems() == 0) {
+								targetBins.remove(k);
+							}
+						} else if (remove.equals("ALL")) {
+							for (int j = 0; j < targetBins.get(k)
+									.numberOfItems(); j++) {
+								returnBins.add(targetBins.get(k).items.get(j));
+							}
+							targetBins.remove(k);
+						}
+
+					}
+				} else if (ignore == 1.1 && sizee >= 0) {
+					if (remove.equals("ONE")) {
+						returnBins.add(targetBins.get(k).items.get(sizee));
+						targetBins.get(k).items.remove(sizee);
+						if (targetBins.get(k).numberOfItems() == 0) {
+							targetBins.remove(k);
+						}
+					} else if (remove.equals("ALL")) {
+						for (int j = 0; j < targetBins.get(k).numberOfItems(); j++) {
+							returnBins.add(targetBins.get(k).items.get(j));
+						}
 						targetBins.remove(k);
 					}
+
 				}
-				else if(remove.equals("ALL")){
-					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
-						returnBins.add(targetBins.get(k).items.get(j));
-					}
-					targetBins.remove(k);
-				}
-				
+
 			}
-			}
-			else if(ignore == 1.1 && sizee >= 0){
-				if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(k).items.get(sizee));
-					targetBins.get(k).items.remove(sizee);
-					if(targetBins.get(k).numberOfItems() == 0){
-						targetBins.remove(k);
-					}
-				}
-				else if(remove.equals("ALL")){
-					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
-						returnBins.add(targetBins.get(k).items.get(j));
-					}
-					targetBins.remove(k);
-				}
-				
-			}
-			
-		}
 			i++;
-			}
+		}
 		return returnBins;
-		//System.out.println("I am gap_less_than(" +num +"," +threshold +"," +ignore +"," +remove +")");
-		
+		// System.out.println("I am gap_less_than(" +num +"," +threshold +","
+		// +ignore +"," +remove +")");
+
 	}
-	
-	private List<Integer> num_of_pieces(int num, int numpieces, double ignore,String remove) {
+
+	private List<Integer> num_of_pieces(int num, int numpieces, double ignore,
+			String remove) {
 		List<Integer> returnBins = new ArrayList<Integer>();
 		List<Bin> toRemoveBins = new ArrayList<Bin>();
-		int counter= 0;
+		int counter = 0;
 		Random randomizer = new Random();
-		for(Bin bins: targetBins){
-			if(targetBins.size() >= num && targetBins.size() > 0){
-				int sizee=0;
-				if(bins.numberOfItems() >0){
-				sizee= randomizer.nextInt(bins.numberOfItems());}
-			if(ignore != 1.1 && sizee >= 0){
-			if(counter < num && bins.numberOfItems() == numpieces && bins.currentSize < ignore*bins.maxSize){
-				if(remove.equals("ONE")){
-					
-					returnBins.add(bins.items.get(sizee));
-					bins.items.remove(sizee);
-					if(bins.numberOfItems() == 0){
-						toRemoveBins.add(bins);
-					}
+		for (Bin bins : targetBins) {
+			if (targetBins.size() >= num && targetBins.size() > 0) {
+				int sizee = 0;
+				if (bins.numberOfItems() > 0) {
+					sizee = randomizer.nextInt(bins.numberOfItems());
 				}
-				else if(remove.equals("ALL")){
-					for(int i = 0; i < bins.numberOfItems(); i++){
-						returnBins.add(bins.items.get(i));
-					}
-					toRemoveBins.add(bins);
-				}
-				counter++;
-				
-				//targetBins.remove(bins);
-			}			
-			}
-			else if(ignore == 1.1 && sizee >= 0){ 
-				if(counter < num && bins.numberOfItems() == numpieces){
-					if(remove.equals("ONE")){
-						
-						returnBins.add(bins.items.get(sizee));
-						bins.items.remove(sizee);
-						if(bins.numberOfItems() == 0){
+				if (ignore != 1.1 && sizee >= 0) {
+					if (counter < num && bins.numberOfItems() == numpieces
+							&& bins.currentSize < ignore * bins.maxSize) {
+						if (remove.equals("ONE")) {
+
+							returnBins.add(bins.items.get(sizee));
+							bins.items.remove(sizee);
+							if (bins.numberOfItems() == 0) {
+								toRemoveBins.add(bins);
+							}
+						} else if (remove.equals("ALL")) {
+							for (int i = 0; i < bins.numberOfItems(); i++) {
+								returnBins.add(bins.items.get(i));
+							}
 							toRemoveBins.add(bins);
 						}
+						counter++;
+
+						// targetBins.remove(bins);
 					}
-					else if(remove.equals("ALL")){
-						for(int i = 0; i < bins.numberOfItems(); i++){
-							returnBins.add(bins.items.get(i));
+				} else if (ignore == 1.1 && sizee >= 0) {
+					if (counter < num && bins.numberOfItems() == numpieces) {
+						if (remove.equals("ONE")) {
+
+							returnBins.add(bins.items.get(sizee));
+							bins.items.remove(sizee);
+							if (bins.numberOfItems() == 0) {
+								toRemoveBins.add(bins);
+							}
+						} else if (remove.equals("ALL")) {
+							for (int i = 0; i < bins.numberOfItems(); i++) {
+								returnBins.add(bins.items.get(i));
+							}
+							toRemoveBins.add(bins);
 						}
-						toRemoveBins.add(bins);
+						counter++;
+
 					}
-					counter++;
-					
 				}
-			}
 			}
 		}
-			for(Iterator<Bin> itr = targetBins.iterator(); itr.hasNext();){
-				Bin obj = itr.next();
-				for(Bin binR : toRemoveBins){
-				if(obj.equals(binR)){itr.remove();}
+		for (Iterator<Bin> itr = targetBins.iterator(); itr.hasNext();) {
+			Bin obj = itr.next();
+			for (Bin binR : toRemoveBins) {
+				if (obj.equals(binR)) {
+					itr.remove();
 				}
 			}
-		
+		}
+
 		return returnBins;
-		//System.out.println("I am num_of_pieces(" +num +"," +numpieces +"," +ignore +"," +remove +")");
-		
+		// System.out.println("I am num_of_pieces(" +num +"," +numpieces +","
+		// +ignore +"," +remove +")");
+
 	}
 
 	private List<Integer> highest_filled(int num, double ignore, String remove) {
-		Collections.sort(targetBins, new Comparator<Bin>(){
-			  public int compare(Bin bin1, Bin bin2) {
-				    return bin1.currentSize < bin2.currentSize ? 1
-				         : bin1.currentSize > bin2.currentSize ? -1
-				         : 0;
-				  }
+		Collections.sort(targetBins, new Comparator<Bin>() {
+			public int compare(Bin bin1, Bin bin2) {
+				return bin1.currentSize < bin2.currentSize ? 1
+						: bin1.currentSize > bin2.currentSize ? -1 : 0;
+			}
 		}); // sort input by bin size // sort input by size (big to small)
 		List<Integer> returnBins = new ArrayList<Integer>();
 		Random randomizer = new Random();
-		
-    	for(int i=0; i < num; i++){
-    		if(targetBins.size() >= num && targetBins.size() > 0){
-        		int sizee=0;
-    			if(targetBins.get(i).numberOfItems() > 0){
-    		sizee= randomizer.nextInt(targetBins.get(i).numberOfItems());}
-    		if(ignore != 1.1 && sizee>= 0){
-    			if(targetBins.get(i).currentSize < ignore*targetBins.get(i).maxSize){
-    				if(remove.equals("ONE")){
-    					
-    					returnBins.add(targetBins.get(i).items.get(sizee));
-    					targetBins.get(i).items.remove(sizee);
-    					if(targetBins.get(i).numberOfItems() == 0){
-    						targetBins.remove(i);
-    					}
-    				}
-    				else if(remove.equals("ALL")){
-    					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
-    						returnBins.add(targetBins.get(i).items.get(j));
-    					}
-    					targetBins.remove(i);
-    				}
-    				
-    			}    		
-    		}
-    		else if(ignore == 1.1 && sizee >= 0){    			
-    			if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(i).items.get(sizee));
-					targetBins.get(i).items.remove(sizee);
-					if(targetBins.get(i).numberOfItems() == 0){
+
+		for (int i = 0; i < num; i++) {
+			if (targetBins.size() >= num && targetBins.size() > 0) {
+				int sizee = 0;
+				if (targetBins.get(i).numberOfItems() > 0) {
+					sizee = randomizer.nextInt(targetBins.get(i)
+							.numberOfItems());
+				}
+				if (ignore != 1.1 && sizee >= 0) {
+					if (targetBins.get(i).currentSize < ignore
+							* targetBins.get(i).maxSize) {
+						if (remove.equals("ONE")) {
+
+							returnBins.add(targetBins.get(i).items.get(sizee));
+							targetBins.get(i).items.remove(sizee);
+							if (targetBins.get(i).numberOfItems() == 0) {
+								targetBins.remove(i);
+							}
+						} else if (remove.equals("ALL")) {
+							for (int j = 0; j < targetBins.get(i)
+									.numberOfItems(); j++) {
+								returnBins.add(targetBins.get(i).items.get(j));
+							}
+							targetBins.remove(i);
+						}
+
+					}
+				} else if (ignore == 1.1 && sizee >= 0) {
+					if (remove.equals("ONE")) {
+						returnBins.add(targetBins.get(i).items.get(sizee));
+						targetBins.get(i).items.remove(sizee);
+						if (targetBins.get(i).numberOfItems() == 0) {
+							targetBins.remove(i);
+						}
+					} else if (remove.equals("ALL")) {
+						for (int j = 0; j < targetBins.get(i).numberOfItems(); j++) {
+							returnBins.add(targetBins.get(i).items.get(j));
+						}
 						targetBins.remove(i);
 					}
+
 				}
-				else if(remove.equals("ALL")){
-					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
-						returnBins.add(targetBins.get(i).items.get(j));
-					}
-					targetBins.remove(i);
-				}
-    			
-    		}
-    	}
+			}
 		}
-    	return returnBins;
-		//System.out.println("I am highest_filled(" +num +"," +ignore +"," +remove +")");
+		return returnBins;
+		// System.out.println("I am highest_filled(" +num +"," +ignore +","
+		// +remove +")");
 	}
-	
+
 	private List<Integer> lowest_filled(int num, double ignore, String remove) {
-		Collections.sort(targetBins, new Comparator<Bin>(){
-			  public int compare(Bin bin1, Bin bin2) {
-				    return bin1.currentSize < bin2.currentSize ? -1
-				         : bin1.currentSize > bin2.currentSize ? 1
-				         : 0;
-				  }
-		}); // sort input by bin size 
+		Collections.sort(targetBins, new Comparator<Bin>() {
+			public int compare(Bin bin1, Bin bin2) {
+				return bin1.currentSize < bin2.currentSize ? -1
+						: bin1.currentSize > bin2.currentSize ? 1 : 0;
+			}
+		}); // sort input by bin size
 		List<Integer> returnBins = new ArrayList<Integer>();
-    	Random randomizer = new Random();
-    	
-    	for(int i=0; i < num; i++){
-    		if(targetBins.size() >= num && targetBins.size() > 0){
-    			int sizee =0;
-    			if(targetBins.get(i).numberOfItems() >0 ){
-    		sizee = randomizer.nextInt(targetBins.get(i).numberOfItems());}
-    		if(ignore != 1.1 && sizee >= 0){
-    			if(targetBins.get(i).currentSize < ignore*targetBins.get(i).maxSize){
-    				if(remove.equals("ONE")){
-    					if(targetBins.get(i).numberOfItems()>0){
-    					returnBins.add(targetBins.get(i).items.get(sizee));
-    					targetBins.get(i).items.remove(sizee);
-    					if(targetBins.get(i).numberOfItems() == 0){
-    						targetBins.remove(i);
-    					}
-    					}
-    				}
-    				else if(remove.equals("ALL")){
-    					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
-    						returnBins.add(targetBins.get(i).items.get(j));
-    					}
-    					targetBins.remove(i);
-    				}
-    			}  
-    			
-    		}
-    		else if(ignore == 1.1 && sizee >= 0){    			
-    			if(remove.equals("ONE")){
-					returnBins.add(targetBins.get(i).items.get(sizee));
-					targetBins.get(i).items.remove(sizee);
-					if(targetBins.get(i).numberOfItems() == 0){
+		Random randomizer = new Random();
+
+		for (int i = 0; i < num; i++) {
+			if (targetBins.size() >= num && targetBins.size() > 0) {
+				int sizee = 0;
+				if (targetBins.get(i).numberOfItems() > 0) {
+					sizee = randomizer.nextInt(targetBins.get(i)
+							.numberOfItems());
+				}
+				if (ignore != 1.1 && sizee >= 0) {
+					if (targetBins.get(i).currentSize < ignore
+							* targetBins.get(i).maxSize) {
+						if (remove.equals("ONE")) {
+							if (targetBins.get(i).numberOfItems() > 0) {
+								returnBins.add(targetBins.get(i).items
+										.get(sizee));
+								targetBins.get(i).items.remove(sizee);
+								if (targetBins.get(i).numberOfItems() == 0) {
+									targetBins.remove(i);
+								}
+							}
+						} else if (remove.equals("ALL")) {
+							for (int j = 0; j < targetBins.get(i)
+									.numberOfItems(); j++) {
+								returnBins.add(targetBins.get(i).items.get(j));
+							}
+							targetBins.remove(i);
+						}
+					}
+
+				} else if (ignore == 1.1 && sizee >= 0) {
+					if (remove.equals("ONE")) {
+						returnBins.add(targetBins.get(i).items.get(sizee));
+						targetBins.get(i).items.remove(sizee);
+						if (targetBins.get(i).numberOfItems() == 0) {
+							targetBins.remove(i);
+						}
+					} else if (remove.equals("ALL")) {
+						for (int j = 0; j < targetBins.get(i).numberOfItems(); j++) {
+							returnBins.add(targetBins.get(i).items.get(j));
+						}
 						targetBins.remove(i);
 					}
+
 				}
-				else if(remove.equals("ALL")){
-					for(int j=0; j < targetBins.get(i).numberOfItems(); j++){
-						returnBins.add(targetBins.get(i).items.get(j));
-					}
-					targetBins.remove(i);
-				}
-    			
-    			
-    		}
-    		}
-    	}
-    	
-    	return returnBins;
-		//System.out.println("I am lowest_filled(" +num +"," +ignore +"," +remove +")");
+			}
+		}
+
+		return returnBins;
+		// System.out.println("I am lowest_filled(" +num +"," +ignore +","
+		// +remove +")");
 	}
-	
+
 	private List<Integer> random_bin(int num, double ignore, String remove) {
 		List<Integer> returnBins = new ArrayList<Integer>();
-    	Random randomizer = new Random();
-    	
-    	for(int i=0; i < num; i++){
-    		if(targetBins.size() > num && targetBins.size() > 0){
-    			int k = randomizer.nextInt(targetBins.size());
-    		
-    		
-    		if(ignore != 1.1 && k >= 0 ){   
-    			int sizee=0;
-    			if(targetBins.get(k).numberOfItems() > 0){
-    			sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());}
-    			if(targetBins.get(k).currentSize < ignore*targetBins.get(k).maxSize && sizee >= 0){
-    				if(remove.equals("ONE")){
-    					returnBins.add(targetBins.get(k).items.get(sizee));
-    					targetBins.get(k).items.remove(sizee);
-    					if(targetBins.get(k).numberOfItems() == 0){
-    						targetBins.remove(k);
-    					}
-    				}
-    				else if(remove.equals("ALL")){
-    					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
-    						returnBins.add(targetBins.get(k).items.get(j));
-    					}
-    					targetBins.remove(k);
-    				}
-    				
-    			}    		
-    		}
-    		else if(ignore == 1.1&& k >= 0 ){    	
-    			int sizee= randomizer.nextInt(targetBins.get(k).numberOfItems());
-    			if(remove.equals("ONE") && sizee >= 0){
-					returnBins.add(targetBins.get(k).items.get(sizee));
-					targetBins.get(k).items.remove(sizee);
-					if(targetBins.get(k).numberOfItems() == 0){
+		Random randomizer = new Random();
+
+		for (int i = 0; i < num; i++) {
+			if (targetBins.size() > num && targetBins.size() > 0) {
+				int k = randomizer.nextInt(targetBins.size());
+
+				if (ignore != 1.1 && k >= 0) {
+					int sizee = 0;
+					if (targetBins.get(k).numberOfItems() > 0) {
+						sizee = randomizer.nextInt(targetBins.get(k)
+								.numberOfItems());
+					}
+					if (targetBins.get(k).currentSize < ignore
+							* targetBins.get(k).maxSize
+							&& sizee >= 0) {
+						if (remove.equals("ONE")) {
+							returnBins.add(targetBins.get(k).items.get(sizee));
+							targetBins.get(k).items.remove(sizee);
+							if (targetBins.get(k).numberOfItems() == 0) {
+								targetBins.remove(k);
+							}
+						} else if (remove.equals("ALL")) {
+							for (int j = 0; j < targetBins.get(k)
+									.numberOfItems(); j++) {
+								returnBins.add(targetBins.get(k).items.get(j));
+							}
+							targetBins.remove(k);
+						}
+
+					}
+				} else if (ignore == 1.1 && k >= 0) {
+					int sizee = randomizer.nextInt(targetBins.get(k)
+							.numberOfItems());
+					if (remove.equals("ONE") && sizee >= 0) {
+						returnBins.add(targetBins.get(k).items.get(sizee));
+						targetBins.get(k).items.remove(sizee);
+						if (targetBins.get(k).numberOfItems() == 0) {
+							targetBins.remove(k);
+						}
+					} else if (remove.equals("ALL")) {
+						for (int j = 0; j < targetBins.get(k).numberOfItems(); j++) {
+							returnBins.add(targetBins.get(k).items.get(j));
+						}
 						targetBins.remove(k);
 					}
+
 				}
-				else if(remove.equals("ALL")){
-					for(int j=0; j < targetBins.get(k).numberOfItems(); j++){
-						returnBins.add(targetBins.get(k).items.get(j));
-					}
-					targetBins.remove(k);
-				}
-    			
-    		}
-    	}
-    	}
-    	return returnBins;
-		//System.out.println("I am random_bin(" +num +"," +ignore +"," +remove +")");
+			}
+		}
+		return returnBins;
+		// System.out.println("I am random_bin(" +num +"," +ignore +"," +remove
+		// +")");
 	}
 
 	/**
 	 * Returns true if the solution has been found.<br>
-	 * For the Hamming Distance problem a solution is found
-	 * when the current population contains an individual with
-	 * phenotype equal to the target string.
+	 * For the Hamming Distance problem a solution is found when the current
+	 * population contains an individual with phenotype equal to the target
+	 * string.
 	 * 
 	 * @return True, if the solution has been found.
 	 */
@@ -603,7 +609,6 @@ private List<Bin> targetBins = null;
 		return solutionFound;
 	}
 
-	
 	/**
 	 * Returns the target string to be found.
 	 * 
@@ -616,7 +621,8 @@ private List<Bin> targetBins = null;
 	/**
 	 * Sets the target string to be found.
 	 * 
-	 * @param target The target string to be found.
+	 * @param target
+	 *            The target string to be found.
 	 */
 	public void setTarget(List<Bin> target) {
 		this.target = target;
