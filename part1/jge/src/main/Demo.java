@@ -19,11 +19,9 @@ import bangor.aiia.jge.bnf.BNFParser;
 import bangor.aiia.jge.bnf.InvalidBNFException;
 import bangor.aiia.jge.core.GrammaticalEvolution;
 import bangor.aiia.jge.population.Individual;
-import bangor.aiia.jge.ps.BestFit;
 import bangor.aiia.jge.ps.Bin;
 import bangor.aiia.jge.ps.DemoD;
 import bangor.aiia.jge.ps.FirstFit;
-import bangor.aiia.jge.ps.WorstFit;
 import bangor.aiia.jge.util.ConfigurationSettings;
 import bangor.aiia.jge.util.LogFile;
 
@@ -35,8 +33,6 @@ public class Demo {
 	public static Individual<String, String> hdExperiment(List<Bin> newobj, int min_elem, int max_elem, double average_elem, int size) throws InvalidBNFException, IOException { 
 	bnf1 = BNFParser.loadBNFGrammar(rootPath + "/bnf/HDGrammar11.bnf");
 	Individual<String, String> solution = null;
-	//String target = "111000111000101010101010101010"; 
-	
 	LogFile log = null;
 	DemoD hd = new DemoD(newobj, min_elem, max_elem, average_elem, size);
 	BNFGrammar bnf = new BNFGrammar(bnf1); 
@@ -125,7 +121,7 @@ public class Demo {
 	    int min_elem = Collections.min(in);
 	    int max_elem = Collections.max(in);
 	    double average_elem = calculateAverage(in);
-	 for(int a=0; a< 100; a++){
+	 for(int a=0; a< 10; a++){
 	    Collections.sort(in, Collections.reverseOrder()); 
 		//Collections.shuffle(in); 
 	    FirstFit ff = new FirstFit(in, size);

@@ -56,6 +56,6 @@ public interface Evaluator <T, S> {
 	 * 
 	 * @return True, if the solution has been found.
 	 */
-	public boolean solutionFound();
+	//public boolean solutionFound();
 
 }

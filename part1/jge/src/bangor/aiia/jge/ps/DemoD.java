@@ -68,7 +68,7 @@ public class DemoD implements Evaluator<String, String> {
 	private List<Bin> targetBins = null;
 
 	// Flag whether a solution has be found or not
-	private boolean solutionFound = false;
+	//private boolean solutionFound = false;
 
 	/**
 	 * Default Constructor. Should not be used.
@@ -115,18 +115,14 @@ public class DemoD implements Evaluator<String, String> {
 	 */
 	public void evaluate(Population<String, String> population) {
 
-		solutionFound = false;
+		//solutionFound = false;
 		int size = population.size();
-		// int length = target.size();
 		Individual<String, String> individual;
 		String current = null;
 		System.out.println(size);
 
 		// Iterate the population
 		for (int i = 0; i < size; i++) {
-			System.out.println("i= " + i);
-
-			// Collections.copy(targetBins, target);
 			individual = population.getIndividual(i);
 			current = individual.getPhenotype().value();
 			System.out.println(current);
@@ -134,58 +130,51 @@ public class DemoD implements Evaluator<String, String> {
 				individual.setValid(false);
 				System.out.println("false");
 			} else {
-				
-				 List<Bin> objBin = new ArrayList<Bin>(); 
-				 /* for(int k=0; k< 150;
-				 * k++){ objBin.add(null); }
-				 */
-				// for(int a= 0 ; a<100; a++){
+
+				List<Bin> objBin = new ArrayList<Bin>();
 				String[] currently = current.split("\\s");
+				int k = 0;
 				int j = 0;
-
-				// objBin = this.deepCopy(target);
-				// List<Bin> temp = new ArrayList<Bin>();
-
-				bins = new ArrayList<Integer>();
 				targetBins = new ArrayList<Bin>();
 				targetBins = this.deepCopy(target);
-				while (j < currently.length) {
-					if (targetBins.size() > 0) {
-						objBin=ExecPhenotype(currently[j++]);
-						
-					} else {
-						objBin=ExecPhenotype(currently[currently.length - 1]);
+				List<List<Bin>> temp = new ArrayList<List<Bin>>();
+				while (k < 100) {
+					bins = new ArrayList<Integer>();
+					while (j < currently.length) {
+						if (targetBins.size() > 0) {
+							objBin = ExecPhenotype(currently[j++]);
+						} else {
+							objBin = ExecPhenotype(currently[currently.length - 1]);
+						}
 					}
-
+					temp.add(objBin);
+					targetBins = this.deepCopy(objBin);
+					j = 0;
+					k++;
 				}
-				// temp = this.deepCopy(targetBins);
-				/*
-				 * if(targetBins.size() < objBin.size()){ objBin = new
-				 * ArrayList<Bin>(); objBin = this.deepCopy(targetBins); } }
-				 */
-
-				System.out.println();
+				int var = Integer.MAX_VALUE;
+				int index = -1;
+				for (int a = 0; a < temp.size(); a++) {
+					// System.out.println( temp.get(a).size());
+					if (var > temp.get(a).size()) {
+						var = temp.get(a).size();
+						index = a;
+					}
+				}
+				if (index != -1)
+					objBin = this.deepCopy(temp.get(index));
 				// Assign Raw Fitness and set Individual as Valid
 				double fitness, sum = 0;
-				System.out.println("Final Target Bin Size = " +objBin.size());
 				if (objBin != null) {
 					for (Bin bins : objBin) {
 						sum += Math.pow((bins.currentSize / binSize), 2);
 					}
 					fitness = 1 - (sum / objBin.size());
 					System.out.println("Fitness = " + 1 / (1 + fitness));
-					fitness = 1 / (1 + fitness);
-					individual.setRawFitnessValue(fitness);
+					double set = 1 / (1 + fitness);
+					individual.setRawFitnessValue(set);
 					individual.setValid(true);
 					individual.setNumberBins(objBin.size());
-					//int numpieces = 0;
-					// remove after testing
-					/*
-					 * for(Bin bins_obj : targetBins){ numpieces +=
-					 * bins_obj.numberOfItems(); }
-					 * System.out.println("num of pieces = " + numpieces +
-					 * " bins = " + targetBins.size());
-					 */
 				}
 				// Check if a solution is found
 
@@ -196,7 +185,6 @@ public class DemoD implements Evaluator<String, String> {
 	}
 
 	private List<Bin> ExecPhenotype(String Pheno) {
-		System.out.println("Pheno = " + Pheno);
 		List<Bin> output = new ArrayList<Bin>();
 		if (Pheno.contains("=")) {
 			String[] vals = Pheno.split("=");
@@ -248,36 +236,35 @@ public class DemoD implements Evaluator<String, String> {
 		} else {
 			Random randomizer = new Random();
 			Iterator<Bin> iter = targetBins.iterator();
-			while(iter.hasNext()){
+			while (iter.hasNext()) {
 				Bin obj = iter.next();
-				if(obj.visited){
-					if(obj.all==true){
-						//System.out.println("n= " +obj.numberOfItems());
-						
-						for(Integer item_obj : obj.items){
-						//System.out.println("value " + item_obj);
-						
-						bins.add(item_obj);
-					}
+				if (obj.visited) {
+					if (obj.all == true) {
+						for (Integer item_obj : obj.items) {
+							bins.add(item_obj);
+						}
 						iter.remove();
-				}else{
-							int i=randomizer.nextInt(obj.numberOfItems());
+					} else {
+						if (obj.numberOfItems() > 0) {
+							int i = randomizer.nextInt(obj.numberOfItems());
 							int item = obj.items.get(i);
 							bins.add(item);
 							obj.items.remove(i);
-							obj.currentSize=obj.currentSize-item;
+							obj.currentSize = obj.currentSize - item;
+							if (obj.numberOfItems() == 0) {
+								iter.remove();
+							}
 						}
+
+					}
 				}
 			}
 			if (Pheno.contains("best")) {
 				output = best_fit_decreasing(bins);
-				//System.out.println("BFD Target Bin Size = " +output.size());
 			} else if (Pheno.contains("worst")) {
 				output = worst_fit_decreasing(bins);
-				//System.out.println("WFD Target Bin Size = " +output.size());
 			} else if (Pheno.contains("first")) {
 				output = first_fit_decreasing(bins);
-				//System.out.println("FFD Target Bin Size = " +output.size());
 			}
 		}
 		return output;
@@ -288,7 +275,6 @@ public class DemoD implements Evaluator<String, String> {
 		FirstFit ffd = new FirstFit(bins, binSize);
 		List<Bin> obj = new ArrayList<Bin>();
 		obj = ffd.addBin(targetBins);
-		//System.out.println("FFD Target Bin Size = " +obj.size());
 		return obj;
 	}
 
@@ -297,7 +283,6 @@ public class DemoD implements Evaluator<String, String> {
 		WorstFit wfd = new WorstFit(bins, binSize);
 		List<Bin> obj = new ArrayList<Bin>();
 		obj = wfd.addBin(targetBins);
-		//System.out.println("WFD Target Bin Size = " +obj.size());
 		return obj;
 	}
 
@@ -306,26 +291,26 @@ public class DemoD implements Evaluator<String, String> {
 		BestFit bfd = new BestFit(bins, binSize);
 		List<Bin> obj = new ArrayList<Bin>();
 		obj = bfd.addBin(targetBins);
-		//System.out.println("BFD Target Bin Size = " +obj.size());
 		return obj;
 	}
 
-	private void gap_less_than(int num, double threshold,
-			double ignore, String remove) {
+	private void gap_less_than(int num, double threshold, double ignore,
+			String remove) {
 		Random randomizer = new Random();
 		int k = 0;
-		int counter = 0; 
+		int counter = 0;
 		while (k < targetBins.size() && counter < num) {
-			int i=randomizer.nextInt(targetBins.size());
-			if ((binSize - targetBins.get(i).currentSize) < threshold && targetBins.get(i).currentSize < ignore* binSize) {
-				if(targetBins.get(i).visited==false){
-					targetBins.get(i).visited=true;	
+			int i = randomizer.nextInt(targetBins.size());
+			if ((binSize - targetBins.get(i).currentSize) < threshold
+					&& targetBins.get(i).currentSize < ignore * binSize) {
+				if (targetBins.get(i).visited == false) {
+					targetBins.get(i).visited = true;
 					if (remove.equals("ALL")) {
-							targetBins.get(i).all=true;
-						}
+						targetBins.get(i).all = true;
+					}
 				}
 				counter++;
-		}
+			}
 			k++;
 		}
 	}
@@ -333,21 +318,22 @@ public class DemoD implements Evaluator<String, String> {
 	private void num_of_pieces(int num, int numpieces, double ignore,
 			String remove) {
 		int counter = 0;
-		int i=0;
-		while(i < targetBins.size() && counter < num) {
-			if (targetBins.get(i).numberOfItems() == numpieces && targetBins.get(i).currentSize<ignore*binSize) {
-				
-				if(targetBins.get(i).visited==false){
-					targetBins.get(i).visited=true;	
+		int i = 0;
+		while (i < targetBins.size() && counter < num) {
+			if (targetBins.get(i).numberOfItems() == numpieces
+					&& targetBins.get(i).currentSize < ignore * binSize) {
+
+				if (targetBins.get(i).visited == false) {
+					targetBins.get(i).visited = true;
 					if (remove.equals("ALL")) {
-						targetBins.get(i).all=true;
+						targetBins.get(i).all = true;
 					}
-			}
-					counter++;
 				}
-			i++;	
+				counter++;
 			}
-	
+			i++;
+		}
+
 	}
 
 	private void highest_filled(int num, double ignore, String remove) {
@@ -356,25 +342,25 @@ public class DemoD implements Evaluator<String, String> {
 				return bin1.currentSize < bin2.currentSize ? 1
 						: bin1.currentSize > bin2.currentSize ? -1 : 0;
 			}
-		}); // sort input by current bin size in non-increasing order.		
+		}); // sort input by current bin size in non-increasing order.
 
-		int i=0;
-		int counter = 0; 
-		while(i<targetBins.size() && counter<num) {
-				
-				if (targetBins.get(i).numberOfItems() < ignore*binSize) {
-					if(targetBins.get(i).visited==false){
-						targetBins.get(i).visited=true;	
-						if (remove.equals("ALL")) {
-							targetBins.get(i).all=true;
-							
-						}
+		int i = 0;
+		int counter = 0;
+		while (i < targetBins.size() && counter < num) {
+
+			if (targetBins.get(i).numberOfItems() < ignore * binSize) {
+				if (targetBins.get(i).visited == false) {
+					targetBins.get(i).visited = true;
+					if (remove.equals("ALL")) {
+						targetBins.get(i).all = true;
+
 					}
-						counter++;
-					}
-				i++;
-		}	
+				}
+				counter++;
+			}
+			i++;
 		}
+	}
 
 	private void lowest_filled(int num, double ignore, String remove) {
 		Collections.sort(targetBins, new Comparator<Bin>() {
@@ -383,40 +369,40 @@ public class DemoD implements Evaluator<String, String> {
 						: bin1.currentSize > bin2.currentSize ? 1 : 0;
 			}
 		}); // sort input by bin size in non-decreasing order
-		int i=0;
-		int counter = 0; 
-		while(i<targetBins.size() && counter<num) {
-				
-				if (targetBins.get(i).numberOfItems() < ignore*binSize) {
-					if(targetBins.get(i).visited==false){
-						targetBins.get(i).visited=true;	
-						if (remove.equals("ALL")) {
-							targetBins.get(i).all=true;
-							
-						}
+		int i = 0;
+		int counter = 0;
+		while (i < targetBins.size() && counter < num) {
+
+			if (targetBins.get(i).numberOfItems() < ignore * binSize) {
+				if (targetBins.get(i).visited == false) {
+					targetBins.get(i).visited = true;
+					if (remove.equals("ALL")) {
+						targetBins.get(i).all = true;
+
 					}
-						counter++;
-					}
-				i++;
-		}	
+				}
+				counter++;
+			}
+			i++;
 		}
+	}
 
 	private void random_bin(int num, double ignore, String remove) {
 		Random randomizer = new Random();
 		int k = 0;
-		int counter = 0; 
+		int counter = 0;
 		while (k < targetBins.size() && counter < num) {
-			int i=randomizer.nextInt(targetBins.size());
-			if (targetBins.get(i).numberOfItems() < ignore*binSize) {
-				if(targetBins.get(i).visited==false){
-					targetBins.get(i).visited=true;	
+			int i = randomizer.nextInt(targetBins.size());
+			if (targetBins.get(i).numberOfItems() < ignore * binSize) {
+				if (targetBins.get(i).visited == false) {
+					targetBins.get(i).visited = true;
 					if (remove.equals("ALL")) {
-						targetBins.get(i).all=true;
-						
+						targetBins.get(i).all = true;
+
 					}
 				}
-					counter++;
-				}
+				counter++;
+			}
 			k++;
 		}
 	}
@@ -429,18 +415,14 @@ public class DemoD implements Evaluator<String, String> {
 	 * 
 	 * @return True, if the solution has been found.
 	 */
-	public boolean solutionFound() {
-		return solutionFound;
-	}
+	
 
 	/**
 	 * Returns the target string to be found.
 	 * 
 	 * @return The target string to be found.
 	 */
-	public List<Bin> getTarget() {
-		return target;
-	}
+	
 
 	/**
 	 * Sets the target string to be found.
@@ -448,8 +430,7 @@ public class DemoD implements Evaluator<String, String> {
 	 * @param target
 	 *            The target string to be found.
 	 */
-	public void setTarget(List<Bin> target) {
-		this.target = target;
-	}
+	
+	
 
 }

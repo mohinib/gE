@@ -206,11 +206,11 @@ public class StandardGA extends EvolutionaryAlgorithm<String, String> {
 					logger.write("SGA TERMINATION: Max Generations Reached (" + currentGeneration + ")", true);
 				terminate = true;		
 			}	
-			if (evaluator.solutionFound()) {
+		/*	if (evaluator.solutionFound()) {
 				if (logger != null) 
 					logger.write("SGA TERMINATION: Solution Found in Generation " + currentGeneration, true);
 				terminate = true;		
-			}	
+			}	*/
 		
 		}
 		

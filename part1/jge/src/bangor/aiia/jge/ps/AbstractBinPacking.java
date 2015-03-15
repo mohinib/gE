@@ -23,7 +23,7 @@ public abstract class AbstractBinPacking {
     /**
      * print the best bin packing determined by getResult().
      */
-    public abstract void printBestBins();
+    //public abstract void printBestBins();
     
     /**
      * runs algorithm and returns needed bins after repacking.

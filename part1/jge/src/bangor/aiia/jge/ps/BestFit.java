@@ -15,7 +15,6 @@ public class BestFit extends AbstractBinPacking {
 
     @Override
     public List<Bin> getResult() {        
-       // bins.add(new Bin(binSize)); // add first bin
         for (Integer currentItem : in) {
             // iterate over bins and try to put the item into the best one it fits into 
         	//least space available in the bin
@@ -47,7 +46,6 @@ public class BestFit extends AbstractBinPacking {
     }
     @Override
     public List<Bin> addBin(List<Bin> targetBin) {        
-       // bins.add(new Bin(binSize)); // add first bin
         for (Integer currentItem : in) {
             // iterate over bins and try to put the item into the best one it fits into 
         	//least space available in the bin
@@ -76,16 +74,5 @@ public class BestFit extends AbstractBinPacking {
         }
         System.out.println("BF TargetBin Size: " +targetBin.size());
         return targetBin;
-    }
-    @Override
-    public void printBestBins() {
-    	System.out.println("Bins:");
-        if (bins.size() == in.size()) {
-        	System.out.println("each item is in its own bin");
-        } else {
-            for (Bin bin : bins) {
-            	System.out.println(bin.toString());
-            }
-        }
     }
 }

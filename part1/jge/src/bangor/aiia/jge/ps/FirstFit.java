@@ -1,7 +1,6 @@
 package bangor.aiia.jge.ps;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 import bangor.aiia.jge.ps.Bin;
@@ -65,30 +64,5 @@ public class FirstFit extends AbstractBinPacking {
     	System.out.println("FF Target Bins size = " +targetbins.size());
     	return targetbins;
     	
-    }
-  
-    
-    @Override
-    public void printBestBins() {
-    	//try{
-    	//FileWriter fileWriter = new FileWriter("result.txt");
-            // Always wrap FileWriter in BufferedWriter.
-       // BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-       // bufferedWriter.write("needed bins :" + getResult() + " Best result : " + bestResult);
-        //bufferedWriter.write("Bins:");
-    		System.out.println("Bins:");
-        if (bins.size() == in.size()) {
-        	//bufferedWriter.write("each item is in its own bin");
-        	System.out.println("each item is in its own bin");
-        } else {
-            for (Bin bin : bins) {
-            	//bufferedWriter.write(bin.toString()+ "\n");
-            	System.out.println(bin.toString());
-            }
-        }
-    	//}
-    	//catch(IOException ex){
-    		//System.out.println("Error writing to file");
-    	//}
     }
 }
