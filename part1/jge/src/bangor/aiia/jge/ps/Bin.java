@@ -24,6 +24,10 @@ public class Bin {
      */
     protected List<Integer> items;
 
+    public boolean visited;
+    public boolean all;
+
+
     /**
      * construct new bin with given maximal size.
      *
@@ -33,6 +37,7 @@ public class Bin {
         this.maxSize = maxSize;
         this.currentSize = 0;
         this.items = new ArrayList<Integer>();
+        this.all=false;
     }
 
     /**

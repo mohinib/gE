@@ -1,4 +1,4 @@
-package main1;
+package main;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,9 +19,11 @@ import bangor.aiia.jge.bnf.BNFParser;
 import bangor.aiia.jge.bnf.InvalidBNFException;
 import bangor.aiia.jge.core.GrammaticalEvolution;
 import bangor.aiia.jge.population.Individual;
+import bangor.aiia.jge.ps.BestFit;
 import bangor.aiia.jge.ps.Bin;
 import bangor.aiia.jge.ps.DemoD;
 import bangor.aiia.jge.ps.FirstFit;
+import bangor.aiia.jge.ps.WorstFit;
 import bangor.aiia.jge.util.ConfigurationSettings;
 import bangor.aiia.jge.util.LogFile;
 
@@ -123,21 +125,23 @@ public class Demo {
 	    int min_elem = Collections.min(in);
 	    int max_elem = Collections.max(in);
 	    double average_elem = calculateAverage(in);
-	 for(int a=0; a< 1; a++){
-	   //Collections.sort(in, Collections.reverseOrder()); 
-		Collections.shuffle(in); 
+	 for(int a=0; a< 100; a++){
+	    Collections.sort(in, Collections.reverseOrder()); 
+		//Collections.shuffle(in); 
 	    FirstFit ff = new FirstFit(in, size);
 	    List<Bin> newobj= new ArrayList<Bin>();
 	    newobj=ff.getResult();
-	    System.out.println(" a = " + a);
+	    //System.out.println(" a = " + a);
 	    bw1.write("\n First Fit " + ":" + newobj.size());
 		obj = hdExperiment(newobj, min_elem, max_elem, average_elem, size);
-		int temp=obj.numBins();
+		int temp=obj.getNumberBins();
 		if(temp<best_sol){
 			best_sol=temp;
 			bw1.write("\n Best solution " + content +  ":" + best_sol);
+			
 		}
 	 }
+	 System.out.println("Best solution " + content +  ":" + best_sol);
 	 bw1.close();
 	 File file = new File("filename.txt");
 	 

@@ -129,7 +129,7 @@ public class GrammaticalEvolution {
 	
 	// The codon size in bits
 	private int codonSize = 0;	
-	
+	private int counter=0;
 	// Fixed-Length genomes
 	private boolean fixedSizeGenome = false;
 	
@@ -198,6 +198,7 @@ public class GrammaticalEvolution {
 	 * @return The Solution. The best individual in the current population 
 	 * 		   after the Grammatical Evolution process.
 	 */
+	
 	public Individual<String, String> run() {
 		
 		Individual<String, String> solution = null;
@@ -233,8 +234,10 @@ public class GrammaticalEvolution {
 			logger.write(this.toString() + "\n", false);
 		}
 				
-		// Execute the Evolutionary Algorithm		
+		// Execute the Evolutionary Algorithm	
+		
 		solution = ea.run();
+		
 		System.out.println("I am solution: " +solution);
 		generationsCreated = ea.lastRunGenerations();
 		population = ea.getPopulation();
