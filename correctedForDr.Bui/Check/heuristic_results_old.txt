@@ -1,0 +1,1281 @@
+150 500 198: 
+ Average 201.0 
+ Average 200.0 
+ Average 199.9 
+ Average 201.0 
+ Average 201.0 
+ Average 200.2 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.8 
+ Average 200.7 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.5 
+ Average 201.0 
+ Average 199.9 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.4 
+ Average 201.0 
+ Average 200.1 
+ Average 201.0 
+ Average 201.0 
+ Avg of one instance 200.78333333333333 
+150 500 201: 
+ Average 203.8 
+ Average 203.0 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.9 
+ Average 203.2 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.1 
+ Average 204.0 
+ Average 204.0 
+ Avg of one instance 203.66666666666666 
+150 500 202: 
+ Average 204.8 
+ Average 204.0 
+ Average 203.2 
+ Average 205.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 204.9 
+ Average 204.5 
+ Average 204.5 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.1 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.2 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Avg of one instance 204.67333333333332 
+150 500 204: 
+ Average 207.0 
+ Average 206.0 
+ Average 206.0 
+ Average 207.0 
+ Average 207.0 
+ Average 206.1 
+ Average 207.0 
+ Average 207.0 
+ Average 206.9 
+ Average 206.6 
+ Average 206.7 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 206.2 
+ Average 207.0 
+ Average 206.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 206.6 
+ Average 207.0 
+ Average 206.0 
+ Average 207.0 
+ Average 207.0 
+ Avg of one instance 206.77 
+150 500 206: 
+ Average 209.0 
+ Average 208.0 
+ Average 208.0 
+ Average 209.0 
+ Average 209.0 
+ Average 208.1 
+ Average 209.0 
+ Average 208.0 
+ Average 209.0 
+ Average 208.9 
+ Average 208.5 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 208.3 
+ Average 209.0 
+ Average 208.0 
+ Average 209.0 
+ Average 209.0 
+ Average 209.0 
+ Average 208.7 
+ Average 209.0 
+ Average 208.0 
+ Average 209.0 
+ Average 209.0 
+ Avg of one instance 208.75 
+150 500 206: 
+ Average 207.0 
+ Average 206.9 
+ Average 206.9 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 206.7 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Avg of one instance 206.98333333333332 
+150 500 207: 
+ Average 210.0 
+ Average 209.1 
+ Average 209.0 
+ Average 210.0 
+ Average 210.0 
+ Average 209.3 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 209.9 
+ Average 209.3 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 209.3 
+ Average 210.0 
+ Average 209.1 
+ Average 210.0 
+ Average 210.0 
+ Average 210.0 
+ Average 209.8 
+ Average 210.0 
+ Average 209.2 
+ Average 210.0 
+ Average 210.0 
+ Avg of one instance 209.8 
+150 500 204: 
+ Average 207.0 
+ Average 206.6 
+ Average 206.7 
+ Average 207.0 
+ Average 207.0 
+ Average 206.8 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 206.1 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Average 207.0 
+ Avg of one instance 206.94000000000003 
+150 500 196: 
+ Average 198.8 
+ Average 197.2 
+ Average 198.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 198.0 
+ Average 198.7 
+ Average 198.5 
+ Average 198.2 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 197.4 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.2 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 199.0 
+ Avg of one instance 198.59999999999997 
+150 500 202: 
+ Average 203.6 
+ Average 203.0 
+ Average 203.0 
+ Average 203.8 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.0 
+ Average 203.1 
+ Average 203.2 
+ Average 203.0 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.8 
+ Average 203.8 
+ Average 203.9 
+ Average 203.1 
+ Average 203.9 
+ Average 203.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 203.1 
+ Average 204.0 
+ Average 203.0 
+ Average 203.9 
+ Average 203.0 
+ Avg of one instance 203.50666666666666 
+150 500 200: 
+ Average 202.0 
+ Average 201.3 
+ Average 201.8 
+ Average 202.0 
+ Average 202.0 
+ Average 201.8 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.9 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.8 
+ Average 202.0 
+ Average 201.7 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Avg of one instance 201.94333333333333 
+150 500 200: 
+ Average 202.9 
+ Average 203.0 
+ Average 202.0 
+ Average 203.0 
+ Average 203.0 
+ Average 202.2 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 202.7 
+ Average 202.1 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 202.0 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 202.0 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 203.0 
+ Average 202.3 
+ Average 203.0 
+ Average 202.0 
+ Average 203.0 
+ Average 203.0 
+ Avg of one instance 202.77333333333334 
+150 500 199: 
+ Average 202.0 
+ Average 201.0 
+ Average 201.4 
+ Average 202.0 
+ Average 202.0 
+ Average 201.6 
+ Average 202.0 
+ Average 202.0 
+ Average 201.9 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.4 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.9 
+ Average 202.0 
+ Average 201.9 
+ Average 202.0 
+ Average 202.0 
+ Avg of one instance 201.86999999999998 
+150 500 196: 
+ Average 198.0 
+ Average 197.0 
+ Average 197.0 
+ Average 198.0 
+ Average 198.0 
+ Average 197.3 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 197.5 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 197.1 
+ Average 198.0 
+ Average 197.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 197.6 
+ Average 198.0 
+ Average 197.0 
+ Average 198.0 
+ Average 198.0 
+ Avg of one instance 197.78333333333333 
+150 500 204: 
+ Average 206.0 
+ Average 205.2 
+ Average 205.2 
+ Average 206.0 
+ Average 206.0 
+ Average 205.5 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 205.9 
+ Average 206.0 
+ Average 205.2 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 205.2 
+ Average 206.0 
+ Average 206.0 
+ Avg of one instance 205.87333333333333 
+150 500 201: 
+ Average 203.3 
+ Average 202.9 
+ Average 203.0 
+ Average 203.5 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.0 
+ Average 203.2 
+ Average 203.1 
+ Average 203.1 
+ Average 203.0 
+ Average 204.0 
+ Average 203.9 
+ Average 203.0 
+ Average 204.0 
+ Average 203.8 
+ Average 203.3 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 202.9 
+ Average 204.0 
+ Average 203.5 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.0 
+ Average 204.0 
+ Average 203.0 
+ Avg of one instance 203.45 
+150 500 202: 
+ Average 204.2 
+ Average 203.4 
+ Average 203.0 
+ Average 204.6 
+ Average 205.0 
+ Average 203.9 
+ Average 205.0 
+ Average 204.0 
+ Average 204.1 
+ Average 204.0 
+ Average 204.0 
+ Average 204.1 
+ Average 205.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.9 
+ Average 204.1 
+ Average 204.8 
+ Average 204.0 
+ Average 204.7 
+ Average 203.3 
+ Average 205.0 
+ Average 204.4 
+ Average 204.9 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Avg of one instance 204.34666666666666 
+150 500 198: 
+ Average 201.0 
+ Average 200.0 
+ Average 200.1 
+ Average 201.0 
+ Average 201.0 
+ Average 200.4 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.8 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.6 
+ Average 201.0 
+ Average 200.1 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 200.9 
+ Average 201.0 
+ Average 200.1 
+ Average 201.0 
+ Average 201.0 
+ Avg of one instance 200.83333333333334 
+150 500 202: 
+ Average 204.8 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.8 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 204.1 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 205.0 
+ Avg of one instance 204.7566666666667 
+150 500 196: 
+ Average 199.0 
+ Average 199.0 
+ Average 198.6 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.7 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Avg of one instance 198.97666666666663 
+Average for all: 203.654150 500 198: 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.1 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 199.7 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.8 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.7 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.3 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.5 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.1 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+ Avg of one instance 200.77333333333337
+150 500 201: 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.7 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.2 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.1 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.3 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+ Avg of one instance 203.67666666666668
+150 500 202: 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.8 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 203.4 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.8 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.7 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.4 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+ Avg of one instance 204.67666666666668
+150 500 204: 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.9 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.1 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.5 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.9 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.5 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.8 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+ Avg of one instance 206.79
+150 500 206: 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.9 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 207.8 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.7 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.2 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.6 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 208.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209 target bin size 209  Average 209.0 
+ Avg of one instance 208.73999999999998
+150 500 206: 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.6 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.9 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.7 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+ Avg of one instance 206.97333333333333
+150 500 207: 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.1 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.4 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.4 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.1 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.6 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 209.5 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210 target bin size 210  Average 210.0 
+ Avg of one instance 209.80333333333334
+150 500 204: 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.3 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.7 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.9 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 206.2 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207 target bin size 207  Average 207.0 
+ Avg of one instance 206.93666666666664
+150 500 196: 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.7 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 197.3 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 197.7 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.6 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.4 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.2 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.2 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 197.5 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.4 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+ Avg of one instance 198.6
+150 500 202: 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.4 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.9 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.9 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.4 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.1 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.9 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.9 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.3 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.8 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.7 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.1 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+ Avg of one instance 203.48000000000005
+150 500 200: 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.7 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.6 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.5 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+ Avg of one instance 201.96
+150 500 200: 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.8 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.3 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 202.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203 target bin size 203  Average 203.0 
+ Avg of one instance 202.77
+150 500 199: 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.6 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.7 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.8 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.5 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 201.8 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202 target bin size 202  Average 202.0 
+ Avg of one instance 201.88000000000002
+150 500 196: 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.3 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.4 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.2 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.8 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 197.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198 target bin size 198  Average 198.0 
+ Avg of one instance 197.79
+150 500 204: 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 205.3 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 205.3 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 205.7 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 205.5 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 205.1 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206 target bin size 206  Average 206.0 
+ Avg of one instance 205.89666666666668
+150 500 201: 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.5 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.5 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.1 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.1 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.2 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.8 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.8 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.5 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.8 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 202.9 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.2 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 204.0 
+target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204 target bin size 204  Average 203.0 
+ Avg of one instance 203.44666666666666
+150 500 202: 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.3 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 203.4 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 203.2 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.6 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.3 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.8 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.7 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 203.3 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.7 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 203.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+ Avg of one instance 204.37333333333333
+150 500 198: 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.1 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.3 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.9 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.9 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 200.3 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201 target bin size 201  Average 201.0 
+ Avg of one instance 200.85
+150 500 202: 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.9 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.5 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.1 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 204.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205 target bin size 205  Average 205.0 
+ Avg of one instance 204.75
+150 500 196: 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.9 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 198.9 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199 target bin size 199  Average 199.0 
+ Avg of one instance 198.99333333333334
+Average for all: 203.65800000000002

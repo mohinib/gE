@@ -1,0 +1,30 @@
+random_bins=50,0.999,ONE best-fit-decreasing
+random_bins=10,1.1,ONE num_of_pieces=50,4,1.0,ONE gap_less_than=50,maximum,0.995,ONE best-fit-decreasing
+gap_less_than=10,average,0.997,ONE random_bins=20,0.999,ONE random_bins=10,1.0,ONE best-fit-decreasing
+random_bins=50,0.999,ONE lowest_filled=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
+random_bins=50,0.997,ONE best-fit-decreasing
+random_bins=50,0.999,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+lowest_filled=20,0.997,ONE random_bins=10,1.0,ONE num_of_pieces=10,4,0.995,ALL lowest_filled=50,0.999,ONE num_of_pieces=10,3,0.995,ONE best-fit-decreasing
+random_bins=10,1.1,ONE random_bins=50,0.995,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+random_bins=50,0.999,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,0.997,ONE best-fit-decreasing
+random_bins=50,0.995,ONE best-fit-decreasing
+highest_filled=50,1.1,ONE lowest_filled=20,0.997,ONE gap_less_than=20,average,1.1,ONE best-fit-decreasing
+lowest_filled=50,0.997,ONE lowest_filled=20,1.1,ONE random_bins=20,0.997,ONE best-fit-decreasing
+random_bins=50,0.999,ONE random_bins=5,0.995,ONE best-fit-decreasing
+random_bins=50,0.999,ONE best-fit-decreasing
+lowest_filled=50,1.0,ONE gap_less_than=2,minimum,0.997,ONE best-fit-decreasing
+random_bins=50,0.997,ONE best-fit-decreasing
+lowest_filled=50,1.1,ONE random_bins=10,0.999,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.0,ONE best-fit-decreasing
+random_bins=50,0.995,ONE best-fit-decreasing
+gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
