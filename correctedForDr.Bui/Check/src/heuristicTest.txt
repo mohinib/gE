@@ -1,7 +1,0 @@
-random_bins=5,1.1,ALL best-fit-decreasing
-gap_less_than=5,average,1.1,ALL best-fit-decreasing
-highest_filled=4,0.995,ALL best-fit-decreasing
-highest_filled=4,1.0,ALL best-fit-decreasing
-lowest_filled=4,0.995,ALL best-fit-decreasing
-lowest_filled=4,1.0,ALL best-fit-decreasing
-num_of_pieces=6,3,0.997,ALL best-fit-decreasing

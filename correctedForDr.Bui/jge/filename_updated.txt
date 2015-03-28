@@ -1,4 +1,0 @@
-Solution for 150 500 198: 199
-Heuristic for above solution gap_less_than=10,average,0.995,ONE gap_less_than=50,minimum,0.999,ALL first-fit-decreasingSolution for 150 1000 399: 400
-Heuristic for above solution gap_less_than=10,minimum,0.999,ALL gap_less_than=50,maximum,0.999,ONE random_bins=2,0.997,ALL num_of_pieces=20,4,1.1,ALL best-fit-decreasingSolution for 100 501 167: 168
-Heuristic for above solution gap_less_than=5,maximum,1.0,ALL lowest_filled=50,1.0,ONE lowest_filled=20,0.999,ONE highest_filled=2,1.1,ALL num_of_pieces=2,4,0.999,ALL gap_less_than=50,average,0.995,ONE random_bins=10,1.0,ONE gap_less_than=2,average,0.997,ALL lowest_filled=20,0.997,ONE random_bins=50,1.0,ONE lowest_filled=50,1.1,ALL best-fit-decreasing

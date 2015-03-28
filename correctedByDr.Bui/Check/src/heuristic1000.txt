@@ -1,0 +1,30 @@
+random_bins=50,1.1,ONE best-fit-decreasing
+highest_filled=10,1.0,ONE gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,0.997,ONE highest_filled=2,0.999,ONE gap_less_than=50,average,1.1,ONE best-fit-decreasing
+random_bins=2,0.997,ALL random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE random_bins=2,1.0,ALL best-fit-decreasing
+random_bins=50,1.1,ONE gap_less_than=20,minimum,0.997,ONE best-fit-decreasing
+gap_less_than=10,average,0.995,ONE num_of_pieces=50,3,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,maximum,1.1,ONE random_bins=20,1.0,ONE best-fit-decreasing
+highest_filled=5,0.999,ONE num_of_pieces=2,5,0.995,ALL gap_less_than=50,average,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=10,average,0.995,ALL random_bins=50,1.1,ONE gap_less_than=20,average,1.1,ONE best-fit-decreasing
+highest_filled=10,0.999,ONE gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+random_bins=10,0.997,ONE gap_less_than=20,minimum,1.1,ONE lowest_filled=2,1.0,ONE best-fit-decreasing
+num_of_pieces=5,6,1.1,ONE random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,average,1.1,ONE best-fit-decreasing
+num_of_pieces=5,4,0.995,ONE gap_less_than=10,minimum,0.997,ONE random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
+gap_less_than=50,average,1.1,ONE gap_less_than=5,minimum,1.0,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+highest_filled=10,1.0,ONE gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+gap_less_than=20,minimum,1.1,ONE highest_filled=20,1.0,ONE random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE random_bins=10,1.0,ALL best-fit-decreasing
+gap_less_than=50,average,1.1,ONE best-fit-decreasing
+gap_less_than=50,average,1.1,ONE best-fit-decreasing
+highest_filled=20,0.997,ONE highest_filled=2,0.997,ALL highest_filled=20,1.0,ONE random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing

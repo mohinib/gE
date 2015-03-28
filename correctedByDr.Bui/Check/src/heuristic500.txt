@@ -1,0 +1,30 @@
+random_bins=50,1.1,ONE num_of_pieces=50,3,0.995,ONE best-fit-decreasing
+random_bins=20,1.1,ONE lowest_filled=20,0.995,ONE best-fit-decreasing
+highest_filled=2,0.997,ALL random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+highest_filled=5,0.995,ONE highest_filled=10,0.995,ONE gap_less_than=50,average,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=20,minimum,0.999,ONE gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=10,minimum,1.0,ONE gap_less_than=50,average,1.1,ONE best-fit-decreasing
+num_of_pieces=5,4,0.999,ALL random_bins=50,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=10,minimum,1.0,ALL num_of_pieces=10,5,0.997,ALL random_bins=5,0.997,ALL random_bins=50,1.1,ONE best-fit-decreasing
+lowest_filled=2,1.0,ONE random_bins=50,1.1,ONE best-fit-decreasing
+highest_filled=20,0.999,ONE highest_filled=5,0.995,ALL random_bins=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,maximum,1.1,ONE best-fit-decreasing
+random_bins=50,1.1,ONE best-fit-decreasing
+num_of_pieces=20,4,0.999,ALL random_bins=20,0.995,ONE random_bins=20,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+highest_filled=20,1.1,ONE gap_less_than=50,average,1.1,ONE lowest_filled=10,0.995,ONE best-fit-decreasing
+random_bins=50,1.1,ONE lowest_filled=10,0.995,ONE num_of_pieces=50,4,1.0,ONE best-fit-decreasing
+gap_less_than=5,minimum,0.995,ONE lowest_filled=50,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+gap_less_than=50,minimum,0.997,ONE gap_less_than=50,minimum,1.1,ONE best-fit-decreasing
+gap_less_than=20,average,1.1,ONE gap_less_than=50,maximum,0.999,ONE best-fit-decreasing
+highest_filled=50,1.1,ONE gap_less_than=10,maximum,0.995,ONE num_of_pieces=20,6,1.0,ONE best-fit-decreasing
+gap_less_than=50,minimum,1.1,ONE num_of_pieces=5,6,0.995,ALL best-fit-decreasing
+num_of_pieces=5,4,0.999,ALL gap_less_than=20,average,1.1,ONE lowest_filled=2,0.997,ALL best-fit-decreasing
+lowest_filled=50,1.1,ONE random_bins=10,1.0,ONE best-fit-decreasing
+gap_less_than=50,average,1.1,ONE best-fit-decreasing
