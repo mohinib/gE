@@ -1,0 +1,2 @@
+lowest_filled=4,0.995,ALL gap_less_than=5,minimum,0.995,ONE gap_less_than=5,minimum,1.1,ALL best-fit-decreasing
+num_of_pieces=50,5,0.999,ALL highest_filled=20,0.997,ONE gap_less_than=2,minimum,1.1,ALL first-fit-decreasing

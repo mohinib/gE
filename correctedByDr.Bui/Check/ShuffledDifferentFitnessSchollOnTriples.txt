@@ -1,0 +1,621 @@
+100 501 167FF Solution: 188: 
+ Average 176.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+ Average 168.0 
+ Average 170.0 
+ Average 169.0 
+ Average 170.0 
+ Average 179.0 
+ Average 170.0 
+ Average 169.0 
+ Average 180.0 
+ Average 175.0 
+ Average 174.0 
+ Average 174.0 
+ Average 170.0 
+ Average 169.0 
+ Average 174.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 177.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 187: 
+ Average 173.0 
+ Average 177.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 174.0 
+ Average 168.0 
+ Average 170.0 
+ Average 169.0 
+ Average 170.0 
+ Average 181.0 
+ Average 170.0 
+ Average 170.0 
+ Average 181.0 
+ Average 177.0 
+ Average 175.0 
+ Average 174.0 
+ Average 171.0 
+ Average 168.0 
+ Average 176.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 180.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 187: 
+ Average 171.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 173.0 
+ Average 169.0 
+ Average 171.0 
+ Average 169.0 
+ Average 170.0 
+ Average 181.0 
+ Average 169.0 
+ Average 171.0 
+ Average 180.0 
+ Average 176.0 
+ Average 172.0 
+ Average 171.0 
+ Average 169.0 
+ Average 169.0 
+ Average 174.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 179.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 187: 
+ Average 173.0 
+ Average 177.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 173.0 
+ Average 169.0 
+ Average 170.0 
+ Average 169.0 
+ Average 170.0 
+ Average 180.0 
+ Average 171.0 
+ Average 170.0 
+ Average 180.0 
+ Average 176.0 
+ Average 172.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 175.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 180.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 185: 
+ Average 176.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 173.0 
+ Average 168.0 
+ Average 171.0 
+ Average 168.0 
+ Average 169.0 
+ Average 176.0 
+ Average 170.0 
+ Average 170.0 
+ Average 183.0 
+ Average 176.0 
+ Average 174.0 
+ Average 175.0 
+ Average 171.0 
+ Average 169.0 
+ Average 174.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 180.0 
+ Average 170.0 
+ Average 169.0 
+ Average 168.0 
+ Average 173.0 
+100 501 167FF Solution: 188: 
+ Average 174.0 
+ Average 175.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+ Average 170.0 
+ Average 170.0 
+ Average 169.0 
+ Average 169.0 
+ Average 179.0 
+ Average 170.0 
+ Average 171.0 
+ Average 180.0 
+ Average 176.0 
+ Average 174.0 
+ Average 172.0 
+ Average 171.0 
+ Average 169.0 
+ Average 174.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 179.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 188: 
+ Average 172.0 
+ Average 175.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+ Average 169.0 
+ Average 170.0 
+ Average 169.0 
+ Average 169.0 
+ Average 178.0 
+ Average 170.0 
+ Average 169.0 
+ Average 178.0 
+ Average 175.0 
+ Average 173.0 
+ Average 172.0 
+ Average 171.0 
+ Average 169.0 
+ Average 174.0 
+ Average 168.0 
+ Average 169.0 
+ Average 170.0 
+ Average 169.0 
+ Average 168.0 
+ Average 179.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 185: 
+ Average 174.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 171.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 179.0 
+ Average 170.0 
+ Average 171.0 
+ Average 179.0 
+ Average 176.0 
+ Average 173.0 
+ Average 174.0 
+ Average 170.0 
+ Average 168.0 
+ Average 174.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 176.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 170.0 
+100 501 167FF Solution: 187: 
+ Average 173.0 
+ Average 174.0 
+ Average 169.0 
+ Average 169.0 
+ Average 170.0 
+ Average 173.0 
+ Average 170.0 
+ Average 171.0 
+ Average 169.0 
+ Average 169.0 
+ Average 173.0 
+ Average 170.0 
+ Average 169.0 
+ Average 180.0 
+ Average 178.0 
+ Average 175.0 
+ Average 173.0 
+ Average 169.0 
+ Average 170.0 
+ Average 173.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 180.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 190: 
+ Average 175.0 
+ Average 176.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 174.0 
+ Average 169.0 
+ Average 170.0 
+ Average 168.0 
+ Average 169.0 
+ Average 178.0 
+ Average 170.0 
+ Average 171.0 
+ Average 179.0 
+ Average 176.0 
+ Average 174.0 
+ Average 174.0 
+ Average 170.0 
+ Average 169.0 
+ Average 173.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 178.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 187: 
+ Average 173.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 170.0 
+ Average 172.0 
+ Average 170.0 
+ Average 172.0 
+ Average 169.0 
+ Average 170.0 
+ Average 177.0 
+ Average 171.0 
+ Average 169.0 
+ Average 179.0 
+ Average 176.0 
+ Average 175.0 
+ Average 173.0 
+ Average 171.0 
+ Average 169.0 
+ Average 173.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+100 501 167FF Solution: 186: 
+ Average 176.0 
+ Average 177.0 
+ Average 169.0 
+ Average 168.0 
+ Average 170.0 
+ Average 172.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 170.0 
+ Average 181.0 
+ Average 170.0 
+ Average 170.0 
+ Average 182.0 
+ Average 178.0 
+ Average 174.0 
+ Average 174.0 
+ Average 170.0 
+ Average 168.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 178.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 188: 
+ Average 174.0 
+ Average 177.0 
+ Average 168.0 
+ Average 168.0 
+ Average 169.0 
+ Average 173.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 170.0 
+ Average 180.0 
+ Average 171.0 
+ Average 170.0 
+ Average 180.0 
+ Average 176.0 
+ Average 173.0 
+ Average 173.0 
+ Average 171.0 
+ Average 169.0 
+ Average 174.0 
+ Average 169.0 
+ Average 169.0 
+ Average 170.0 
+ Average 168.0 
+ Average 168.0 
+ Average 178.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 187: 
+ Average 174.0 
+ Average 176.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+ Average 169.0 
+ Average 171.0 
+ Average 169.0 
+ Average 170.0 
+ Average 179.0 
+ Average 170.0 
+ Average 170.0 
+ Average 180.0 
+ Average 176.0 
+ Average 172.0 
+ Average 173.0 
+ Average 172.0 
+ Average 168.0 
+ Average 174.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 178.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 187: 
+ Average 174.0 
+ Average 176.0 
+ Average 168.0 
+ Average 168.0 
+ Average 170.0 
+ Average 173.0 
+ Average 169.0 
+ Average 171.0 
+ Average 169.0 
+ Average 171.0 
+ Average 180.0 
+ Average 170.0 
+ Average 172.0 
+ Average 178.0 
+ Average 177.0 
+ Average 174.0 
+ Average 173.0 
+ Average 172.0 
+ Average 169.0 
+ Average 173.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 179.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 171.0 
+100 501 167FF Solution: 188: 
+ Average 174.0 
+ Average 176.0 
+ Average 168.0 
+ Average 168.0 
+ Average 170.0 
+ Average 172.0 
+ Average 168.0 
+ Average 170.0 
+ Average 170.0 
+ Average 169.0 
+ Average 178.0 
+ Average 170.0 
+ Average 170.0 
+ Average 182.0 
+ Average 175.0 
+ Average 175.0 
+ Average 176.0 
+ Average 169.0 
+ Average 169.0 
+ Average 175.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+ Average 169.0 
+ Average 168.0 
+ Average 178.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 186: 
+ Average 176.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 174.0 
+ Average 170.0 
+ Average 171.0 
+ Average 169.0 
+ Average 170.0 
+ Average 176.0 
+ Average 169.0 
+ Average 169.0 
+ Average 180.0 
+ Average 176.0 
+ Average 173.0 
+ Average 172.0 
+ Average 172.0 
+ Average 168.0 
+ Average 173.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 177.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 187: 
+ Average 174.0 
+ Average 176.0 
+ Average 169.0 
+ Average 168.0 
+ Average 170.0 
+ Average 173.0 
+ Average 169.0 
+ Average 171.0 
+ Average 169.0 
+ Average 170.0 
+ Average 182.0 
+ Average 170.0 
+ Average 171.0 
+ Average 181.0 
+ Average 177.0 
+ Average 174.0 
+ Average 174.0 
+ Average 170.0 
+ Average 169.0 
+ Average 173.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 178.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 172.0 
+100 501 167FF Solution: 186: 
+ Average 173.0 
+ Average 174.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+ Average 169.0 
+ Average 170.0 
+ Average 168.0 
+ Average 169.0 
+ Average 179.0 
+ Average 169.0 
+ Average 169.0 
+ Average 178.0 
+ Average 175.0 
+ Average 171.0 
+ Average 170.0 
+ Average 170.0 
+ Average 169.0 
+ Average 172.0 
+ Average 169.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 177.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+100 501 167FF Solution: 187: 
+ Average 174.0 
+ Average 176.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 172.0 
+ Average 170.0 
+ Average 171.0 
+ Average 170.0 
+ Average 170.0 
+ Average 179.0 
+ Average 169.0 
+ Average 170.0 
+ Average 181.0 
+ Average 175.0 
+ Average 174.0 
+ Average 173.0 
+ Average 170.0 
+ Average 169.0 
+ Average 175.0 
+ Average 169.0 
+ Average 168.0 
+ Average 169.0 
+ Average 169.0 
+ Average 168.0 
+ Average 179.0 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 171.0 
+Average for all: 171.28833333333336 

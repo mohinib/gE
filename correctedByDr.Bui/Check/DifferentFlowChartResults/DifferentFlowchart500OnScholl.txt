@@ -1,0 +1,311 @@
+100000 200FF Solution: 59: 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 59.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 59.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+100000 200FF Solution: 59: 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 59.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 58.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 56.0 
+ Average 58.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 59.0 
+ Average 60.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 57.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 57.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+ Average 60.0 
+ Average 58.0 
+ Average 58.0 
+ Average 58.0 
+100000 200FF Solution: 59: 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 59.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 56.0 
+ Average 56.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 57.0 
+ Average 58.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+100000 200FF Solution: 59: 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 57.0 
+ Average 59.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 58.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 55.0 
+ Average 57.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+100000 200FF Solution: 60: 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 56.0 
+ Average 58.0 
+ Average 60.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 58.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 57.0 
+ Average 56.0 
+ Average 57.0 
+ Average 57.0 
+ Average 58.0 
+Average for all: 56.86333333333333 

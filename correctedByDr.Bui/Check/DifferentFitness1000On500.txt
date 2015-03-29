@@ -1,0 +1,621 @@
+150 500 198FF Solution: 211: 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+ Average 199.0 
+150 500 201FF Solution: 213: 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+150 500 202FF Solution: 212: 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 203.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 203.0 
+ Average 202.0 
+ Average 203.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 203.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+150 500 204FF Solution: 216: 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+150 500 206FF Solution: 219: 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+150 500 206FF Solution: 219: 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+ Average 206.0 
+150 500 207FF Solution: 220: 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+ Average 208.0 
+150 500 204FF Solution: 219: 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 206.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 206.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+ Average 205.0 
+150 500 196FF Solution: 207: 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+150 500 202FF Solution: 213: 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+150 500 200FF Solution: 210: 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+150 500 200FF Solution: 212: 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 201.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 201.0 
+ Average 200.0 
+ Average 200.0 
+ Average 201.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 201.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 201.0 
+ Average 200.0 
+ Average 200.0 
+150 500 199FF Solution: 210: 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 199.0 
+ Average 200.0 
+ Average 199.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 199.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 199.0 
+ Average 200.0 
+ Average 200.0 
+ Average 200.0 
+ Average 199.0 
+ Average 200.0 
+150 500 196FF Solution: 208: 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+ Average 196.0 
+150 500 204FF Solution: 215: 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 205.0 
+ Average 204.0 
+ Average 204.0 
+150 500 201FF Solution: 212: 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 202.0 
+ Average 202.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+ Average 201.0 
+150 500 202FF Solution: 212: 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+150 500 198FF Solution: 207: 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 199.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 199.0 
+ Average 198.0 
+ Average 199.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+ Average 198.0 
+150 500 202FF Solution: 212: 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+ Average 202.0 
+150 500 196FF Solution: 208: 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+ Average 197.0 
+ Average 197.0 
+ Average 196.0 
+ Average 197.0 
+Average for all: 201.56333333333333 

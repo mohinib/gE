@@ -81,7 +81,7 @@ public class DemoCheck {
 			}
 		}
 		reader.close();
-		File file = new File("heuristic_resultsSchollOn500.txt");
+		File file = new File("ShuffledDifferentFitness1000On500.txt");
 		if (!file.exists()) {
 			file.createNewFile();
 		}
@@ -93,7 +93,7 @@ public class DemoCheck {
 			int max_elem = Collections.max(group.get(b));
 			double average_elem = calculateAverage(group.get(b));
 			//Collections.sort(group.get(b), Collections.reverseOrder());
-			//Collections.shuffle(group.get(b));
+			Collections.shuffle(group.get(b));
 			FirstFit ff = new FirstFit(group.get(b), size[b]);
 			List<Bin> newobj = new ArrayList<Bin>();
 			newobj = ff.getResult();
@@ -103,6 +103,7 @@ public class DemoCheck {
 			sum+=hd.evaluate(bw);
 		}
 		double avg=sum/group.size();
+		System.out.println(avg);
 		bw.write("Average for all: " +avg +"\r \n");
 		bw.close();
 

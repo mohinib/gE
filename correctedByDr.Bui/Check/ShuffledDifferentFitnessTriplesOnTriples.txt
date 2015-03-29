@@ -1,0 +1,621 @@
+100 501 167FF Solution: 188: 
+ Average 170.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 186: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 184: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 186: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 185: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 188: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 188: 
+ Average 170.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 170.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 186: 
+ Average 169.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 187: 
+ Average 170.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 186: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 184: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 186: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+100 501 167FF Solution: 188: 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+ Average 168.0 
+Average for all: 168.02666666666664 

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Stack;
-
+  
 /**
  * The class <code>HammnigDistance</code> implements a problem specification of
  * finding a target string. Namely, it compares the Hamming Distance between the
@@ -71,7 +71,18 @@ public class DemoD {
 		}
 		return copy;
 	}
-	
+	public double calcFitness(List<Bin> toCalcBins){
+		double sum = 0;		
+		double fitness = 0;
+		if(toCalcBins != null && toCalcBins.size() > 0){		
+			for (Bin bins : toCalcBins) {
+				sum += Math.pow((bins.currentSize / binSize), 2);
+			}
+			fitness = 1 - (sum / toCalcBins.size());
+		}
+		return fitness;
+	}
+
 
 	/**
 	 * Evaluates the phenotype (which must be a fixed-length string) of each
@@ -90,7 +101,7 @@ public class DemoD {
 	public double evaluate(BufferedWriter bw) throws IOException {
 
 		InputStream input = new FileInputStream(
-				"/Users/Borse/Graduation/Evolutionary_Algorithms/jGE/Check/src/heuristicScholl.txt");
+				"/Users/Borse/Graduation/Evolutionary_Algorithms/jGE/Check/src/heuristic1000.txt");
 		BufferedReader reader = new BufferedReader(new InputStreamReader(input));
 		String line;
 		String current[] = new String[30];
@@ -126,14 +137,16 @@ public class DemoD {
 				// bins = new ArrayList<Integer>();
 				targetBins = new ArrayList<Bin>();
 
-				List<List<Bin>> temp100 = new ArrayList<List<Bin>>();
+				
 				List<List<Bin>> temp10 = new ArrayList<List<Bin>>();
 				while (k < 10) {
-					
+					List<List<Bin>> temp100 = new ArrayList<List<Bin>>();
 					targetBins = this.deepCopy(target);
 					//List<Bin> BestBins = this.deepCopy(target);
-					int bestBinSize = targetBins.size();
+					//int bestBinSize = targetBins.size();
 					// bw.write("target bin size " + targetBins.size() + " ");
+					double bestBinSize = calcFitness(targetBins);
+					int best=-1;
 					while (loop < 100) {
 						bins = new ArrayList<Integer>();
 						while (j < currently.length) {
@@ -144,24 +157,28 @@ public class DemoD {
 							}
 						}
 						temp100.add(objBin);
-						if (objBin.size() < bestBinSize) {
-						//	BestBins= this.deepCopy(objBin);
+						double objFitness = calcFitness(objBin);
+						if (objFitness < bestBinSize) {
 							targetBins = this.deepCopy(objBin);
-							bestBinSize = objBin.size();
+							bestBinSize = objFitness;
+							//best=k;
 						}
 						loop++;
 						j = 0;
 					}
-					int var=Integer.MAX_VALUE;
-					/*System.out.println("TargetBins:" +targetBins.size());*/
+					
+					double var=1.1;
+					int ind =-1;
+					//System.out.println("TargetBins:" +targetBins.size());
 					for (int z = 0; z < temp100.size(); z++) {
 						// System.out.println( temp.get(a).size());
-						if (var > temp100.get(z).size()) {
-							var = temp100.get(z).size();
-							index = z;
+						double checkF = calcFitness(temp100.get(z));
+						if (var > checkF) {
+							var = checkF;
+							ind = z;
 						}
 					}
-					if (index != -1)
+					if (ind != -1)
 						objBin = this.deepCopy(temp100.get(index));
 					System.out.println("ObjBins:" +objBin.size());
 					k++;

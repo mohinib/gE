@@ -66,7 +66,7 @@ public class DemoD implements Evaluator<String, String> {
 	private double avg = 0;
 	private List<Integer> bins = null;
 	private List<Bin> targetBins = null;
-	private int bestBinSize = 0; // to replace with best bin size for fitness
+	private double bestBinSize = 0; // to replace with best bin size for fitness
 
 	// Flag whether a solution has be found or not
 	//private boolean solutionFound = false;
@@ -109,6 +109,18 @@ public class DemoD implements Evaluator<String, String> {
 			b.visited=false;
 		}
 	}
+	
+	public double calcFitness(List<Bin> toCalcBins){
+		double sum = 0;		
+		double fitness = 0;
+		if(toCalcBins != null && toCalcBins.size() > 0){		
+			for (Bin bins : toCalcBins) {
+				sum += Math.pow((bins.currentSize / binSize), 2);
+			}
+			fitness = 1 - (sum / toCalcBins.size());
+		}
+		return fitness;
+	}
 
 	/**
 	 * Evaluates the phenotype (which must be a fixed-length string) of each
@@ -135,7 +147,6 @@ public class DemoD implements Evaluator<String, String> {
 		for (int i = 0; i < size; i++) {
 			individual = population.getIndividual(i);
 			current = individual.getPhenotype().value();
-			System.out.println(current);
 			if (current.contains("<")) {
 				individual.setValid(false);
 				System.out.println("false");
@@ -147,8 +158,9 @@ public class DemoD implements Evaluator<String, String> {
 				int j = 0;
 				targetBins = new ArrayList<Bin>();
 				targetBins = this.deepCopy(target);
-				bestBinSize = targetBins.size();
+				bestBinSize = calcFitness(targetBins);
 				List<List<Bin>> temp = new ArrayList<List<Bin>>();
+				//int best=-1;
 				while (k < 100) {
 					bins = new ArrayList<Integer>();
 					while (j < currently.length) {
@@ -159,24 +171,28 @@ public class DemoD implements Evaluator<String, String> {
 						}
 					}
 					temp.add(objBin);
-					if(objBin.size() < 	bestBinSize){
+					double objFitness = calcFitness(objBin);
+					if (objFitness < bestBinSize) {
 						targetBins = this.deepCopy(objBin);
-						bestBinSize = objBin.size();
+						bestBinSize = objFitness;
+						//best=k;
 					}
 					j = 0;
 					k++;
 				}
-				int var = Integer.MAX_VALUE;
+				double var=1.1;
 				int index = -1;
 				for (int a = 0; a < temp.size(); a++) {
-					// System.out.println( temp.get(a).size());
-					if (var > temp.get(a).size()) {
-						var = temp.get(a).size();
+					double checkF = calcFitness(temp.get(a));
+					if (var > checkF) {
+						var = checkF;
 						index = a;
 					}
 				}
 				if (index != -1)
 					objBin = this.deepCopy(temp.get(index));
+				else
+					objBin = this.deepCopy(target);
 				// Assign Raw Fitness and set Individual as Valid
 				double fitness, sum = 0;
 				if (objBin != null) {

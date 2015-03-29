@@ -149,7 +149,7 @@ public class Demo {
 		 * FileWriter fw1 = new FileWriter(file1.getAbsoluteFile());
 		 * BufferedWriter bw1 = new BufferedWriter(fw1);
 		 */
-		File file = new File("filename_updated2day.txt");
+		File file = new File("Heuristics500.txt");
 		if (!file.exists()) {
 			file.createNewFile();
 		}

@@ -1,0 +1,621 @@
+150 1000 399FF Solution: 418: 
+ Average 406.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+150 1000 406FF Solution: 429: 
+ Average 413.0 
+ Average 406.0 
+ Average 406.0 
+ Average 406.0 
+ Average 407.0 
+ Average 406.0 
+ Average 407.0 
+ Average 408.0 
+ Average 408.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 408.0 
+ Average 407.0 
+ Average 407.0 
+ Average 406.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+ Average 407.0 
+150 1000 411FF Solution: 432: 
+ Average 419.0 
+ Average 411.0 
+ Average 412.0 
+ Average 411.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 413.0 
+ Average 412.0 
+ Average 411.0 
+ Average 411.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 411.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 412.0 
+ Average 411.0 
+ Average 412.0 
+ Average 411.0 
+ Average 411.0 
+ Average 412.0 
+ Average 412.0 
+ Average 411.0 
+ Average 412.0 
+150 1000 411FF Solution: 434: 
+ Average 420.0 
+ Average 412.0 
+ Average 413.0 
+ Average 413.0 
+ Average 414.0 
+ Average 413.0 
+ Average 414.0 
+ Average 414.0 
+ Average 414.0 
+ Average 413.0 
+ Average 414.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 412.0 
+ Average 413.0 
+ Average 414.0 
+ Average 413.0 
+ Average 412.0 
+ Average 413.0 
+ Average 412.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 413.0 
+ Average 412.0 
+ Average 413.0 
+150 1000 397FF Solution: 416: 
+ Average 406.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+150 1000 399FF Solution: 420: 
+ Average 407.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 401.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+150 1000 395FF Solution: 417: 
+ Average 402.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 396.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 396.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 396.0 
+ Average 395.0 
+ Average 395.0 
+150 1000 404FF Solution: 425: 
+ Average 413.0 
+ Average 404.0 
+ Average 405.0 
+ Average 405.0 
+ Average 406.0 
+ Average 404.0 
+ Average 406.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+150 1000 399FF Solution: 418: 
+ Average 405.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+150 1000 397FF Solution: 418: 
+ Average 405.0 
+ Average 398.0 
+ Average 399.0 
+ Average 398.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 398.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+ Average 399.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 398.0 
+ Average 399.0 
+150 1000 400FF Solution: 418: 
+ Average 407.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+150 1000 401FF Solution: 422: 
+ Average 409.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 403.0 
+ Average 403.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 402.0 
+ Average 403.0 
+ Average 402.0 
+ Average 403.0 
+150 1000 393FF Solution: 413: 
+ Average 400.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 394.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 394.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+ Average 393.0 
+150 1000 396FF Solution: 417: 
+ Average 403.0 
+ Average 397.0 
+ Average 396.0 
+ Average 396.0 
+ Average 397.0 
+ Average 396.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 396.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 396.0 
+ Average 396.0 
+ Average 397.0 
+ Average 397.0 
+ Average 397.0 
+ Average 396.0 
+ Average 396.0 
+ Average 397.0 
+ Average 396.0 
+ Average 397.0 
+150 1000 394FF Solution: 414: 
+ Average 402.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 397.0 
+ Average 395.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 395.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 397.0 
+ Average 395.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 395.0 
+ Average 396.0 
+ Average 396.0 
+ Average 396.0 
+ Average 395.0 
+ Average 397.0 
+ Average 395.0 
+ Average 395.0 
+ Average 395.0 
+ Average 396.0 
+150 1000 402FF Solution: 423: 
+ Average 410.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 404.0 
+ Average 403.0 
+ Average 403.0 
+ Average 404.0 
+ Average 404.0 
+ Average 403.0 
+ Average 403.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 404.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 404.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+ Average 403.0 
+150 1000 404FF Solution: 425: 
+ Average 411.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 405.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+ Average 404.0 
+150 1000 404FF Solution: 427: 
+ Average 413.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 406.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+ Average 405.0 
+150 1000 399FF Solution: 419: 
+ Average 406.0 
+ Average 400.0 
+ Average 399.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 399.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 399.0 
+ Average 400.0 
+150 1000 400FF Solution: 419: 
+ Average 406.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 401.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+ Average 400.0 
+Average for all: 401.60833333333335 
